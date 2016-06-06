@@ -1,0 +1,588 @@
+Shop #,Year,Make & Model,GPM/Gal/F/#,Original Assignment,Second Assignment,Third Assignment,Fourth Assignment,Fifth Assignment,Sixth Assignment,Seventh Assignment,Eighth Assignment,Ninth Assignment,Notes,Image links
+E-1,1918,Mack AC (tractor),,Truck Co. 1 (4/1918 - 7/1920),Truck Co. 11 (1921 - 10/13/1926),Truck Co. 18 (10/1926 - 5/26/1928),Truck Co. 2 (6/19/1928 - 10/22/1928),Truck Co. 10 (10/22/1928 - 4/3/1937),Truck Co. 43 (11/16/1942 - 2/8/1943),Truck Co. 22 (4/18/1943 - 4/15/1944),Truck Co. 38 (4/20/1947 - 9/11/1954),,,
+E-2,1921,Mack AC (tractor),,Truck Co. 19 (11/1921 - 10/19/1927),Truck Co. 2 (11/1/1921 - 10/10/1927),,,,,,,,*Conflict,
+E-3,1920,Mack AC (tractor),,Truck Co. 3 (7/1920 - 5/1925),,Truck Co. 34 (10/1/1935 - 11/14/1947),,Truck Co. 32 (7/22/1950 - 9/18/1950),Spare truck,,,,Spare by 1952,
+E-4,1921,Mack AC (tractor),,Truck Co. 4 (1921 - 7/17/1926),Truck Co. 14 (6/1926 - 10/28/1936),,,,,,,,,
+E-5,1917,White (tractor),,Truck Co. 5 (1918 - 1925),,,,,,,,,,
+E-6,1920,Mack AC (tractor),,Truck Co. 6 (8/1/1920 - 9/1/1924),Truck Co. 5 (1925 - 4/13/1938),,Truck Co. 32 (4/10/1945 - 3/22/1946),,,,,,,
+E-7,1918,Mack AC (tractor),,Truck Co. 7 (4/1918 - 10/1926),Truck Co. 30 (11/1/1926 - 4/6/1939),,Truck Co. 20 (1/1/1944 - 4/15/1944),,,,,,,
+E-8,1915,White (tractor),,Truck Co. 21 (10/1915 - 11/1/1921),Truck Co. 8 (11/1/1921 - 5/8/1925),,,,,,,,First motorized apparatus for Truck 21,
+E-9,1921,Mack AC (tractor),,Truck Co. 9 (11/1921 - 7/17/1926),,Truck Co. 21 (3/15/1927 - 4/2/1927),,Truck Co. 54 (3/16/1950 - 6/26/1954),,,,,First apparatus for Truck 54,
+E-10,1919,Mack AC (tractor),,Truck Co. 10 (7/1919 - 1/1923),,Truck Co. 3 (5/1925 - 4/18/1930),Truck Co. 26 (2/19/1931 - 7/9/1931),Truck Co. 41 (1/26/1931 - 1/31/1931),Truck Co. 42 (9/28/1931 - 5/15/1953),,,,,
+E-11,1920,Mack AC (tractor),,Truck Co. 1 (7/1920 - 1923),,Truck Co. 25 (5/27/1927 - 10/31/1928),Truck Co. 13 (10/31/1928 - 12/10/1942),Truck Co. 34 (9/16/1950 - 6/2/1951),Truck Co. 34 (1/30/1952 - 8/1/1952),,,,,
+E-12,1921,Mack AC (tractor),,Truck Co. 31 (11/1921 - 8/1922),Truck Co. 12 (11/1921 - 1923),Truck Co. 31 (1923 - 10/1926),Truck Co. 6 (1926 - 4/15/1927),Truck Co. 36 (3/19/1934 - 1/24/1945),,,,,,
+E-13,1917,White (tractor),,Truck Co. 13 (1918 - 1923),Truck Co. 27 (12/1/1922 - 5/5/1927),,Truck Co. 13 (8/15/1927 - 10/31/1928) ,,,,,,,Truck 13 (CAPCO)
+E-14,1916,White (tractor),,Truck Co. 12 (9/1916 - 11/1921),Truck Co. 14 (11/1/1921 - 6/1926),,,,,,,,,
+E-15,1918,Mack AC (tractor),,Truck Co. 15 (4/1918 - 1924),Truck Co. 4 (8/10/1936 - 4/7/1938),Truck Co. 30 (4/6/1939 - 2/12/1947),Truck Co. 8 (1/29/1948 - 5/7/1948),,,,,,,Truck 4 (Bill Friedrich)
+E-16,1915,White (tractor),,Truck Co. 16 (10/15/1915 - 9/19/1927),Truck Co. 45 (5/16/1928 - 7/10/1929),Truck Co. 52 (12/16/1929 - 4/22/1932),Truck Co. 36 (12/31/1932 - 3/19/1934),,,,,,First apparatus for Truck 52,
+E-17,1916,Seagrave SF 1-piece,,Truck Co. 17 (11/1916 - 12/22/1938),,,,,,,,,One piece unit--2 purchased; had tiller steering,
+E-18,1917,White (tractor),,Truck Co. 18 (7/1917 - 10/1926),Truck Co. 8 (8/3/1927 - 6/23/1928),Truck Co. 8 (10/24/1928 - 4/17/1929),Truck Co. 36 (4/18/1929 - 8/5/1931),,,,,,,
+E-19,1921,Mack AC (tractor),,Truck Co. 19 (10/28/1927 - 6/1/1945),Truck Co. 39 (10/19/1927 - 1/25/1928),Truck Co. 44 (2/16/1928 - 1/10/1945),,,,,,,*Conflict,
+E-20,1917,Mack AC (tractor),,Truck Co. 3 (8/1917 - 7/1920),,Truck Co. 26 (1/23/1931 - 2/19/1931),,,,,,,"First “bulldog” Mack tractor; had nickel-plated windshield designed, fabricated, and installed by shops",
+E-21,1921,Mack AC (tractor),,Truck Co. 21 (11/1/1921 - 3/15/1927),Truck Co. 40 (8/8/1927 - 7/9/1929),,,,,,,,First apparatus for Truck 40,
+E-22,1917,Mack AC (tractor),,Truck Co. 2 (8/1917 - 11/1/1921),Truck Co. 22 (11/1/1921 - 11/13/1926),,,,,,,,,
+E-23,1918,White (tractor),,Truck Co. 30 (2/1918 - 12/1923),Truck Co. 23 (12/1923 - 3/1/1927),,,,,,,,,
+E-24,1918,White (tractor),,Truck Co. 28 (10/1918 - 9/21/1920),Truck Co. 24 (12/1/1922 - 10/4/1926),,Air Compressor 1 (11/10/1928 - 2/20/1942),,,,,,First apparatus for Air Compressor 1,
+E-25,1917,White (tractor),,Truck Co. 25 (3/1918 - 5/1925),Truck Co. 8 (5/8/1925 - 6/26/1927),Truck Co. 43 (3/16/1928 - 5/10/1928),Truck Co. 48 (12/16/1928 - 7/6/1929),Truck Co. 40 (7/9/1929 - 4/22/1932),,,,,First motorized apparatus for Truck 25; first apparatus for Truck 43; first apparatus for Truck 48,
+E-26,1917,White (tractor),,Truck Co. 34 (7/1917 - 6/2/1926),,,,,,,,,First motorized apparatus for Truck 34,
+E-27,1918,White (tractor),,Truck Co. 27 (2/1918 - 12/1/1922),,,,,,,,,,
+E-28,1918,White (tractor),,Truck Co. 19 (1918 - 1920),Truck Co. 28 (9/21/1920 - 11/5/1926),Truck Co. 30 (12/1923 - 6/1925),Truck Co. 29 (1926 - 1/26/1931),Truck Co. 41 (1/31/1931 - 1/31/1932),,,,,*Conflict,
+E-29,1917,Mack AB (tractor),,Truck Co. 29 (1917 - 1925),,,,,,,,,,
+E-30,1916,White (tractor),,Truck Co. 22 (10/16/1916 - 11/1/1921),Truck Co. 23 (11/1/1921 - 12/1922),Truck Co. 20 (1924 - 1924),Truck Co. 8 (6/26/1927 - 8/3/1927),,,,,,First motorized apparatus for Truck 22,
+E-31,1921,Mack AC (tractor),,Truck Co. 24 (11/1921 - 12/1/1922),Truck Co. 31 (8/1922 - 1923),Truck Co. 12 (1923 - 11/1926),Truck Co. 26 (11/3/1926 - 1/23/1931),Truck Co. 29 (2/14/1931 - 2/3/1936),,,,,,
+E-32,1918,White (tractor),,Truck Co. 32 (5/20/1919 - 5/12/1932),,,,,,,,,First motorized apparatus for Truck 32,
+E-33,1919,Mack AC (tractor),,Truck Co. 33 (8/1919 - 3/15/1927),Light Wagon 1 (10/6/1928 - 5/4/1929),Light Wagon 2 (5/4/1929 - 6/25/1957),,,,,,,"After shops conversion, became first light wagon in CFD on 10/6/1928",Truck 33 (Bill Friedrich)
+E-34,1915,White (tractor),,Truck Co. 26 (12/1915 - 9/22/1925),Truck Co. 29 (1925 - 1926),Truck Co. 36 (5/3/1927 - 2/15/1928),Truck Co. 46 (5/26/1928 - 10/3/1928),Truck Co. 43 (10/9/1928 - 4/22/1932),Truck Co. 26,,,,Truck 43 OOS 4/22/1932,
+E-35,1917,White (tractor),,Truck Co. 6 (7/1917 - 6/1919),Truck Co. 35 (7/9/1919 - 9/16/1931),,,,,,,,"First apparatus for Truck 35 (first Truck Co. to be organized with motor apparatus, Truck 35 was also first Truck Co. organized in 11 years)",
+E-36,1916,White (tractor),,Truck Co. 10 (9/1916 - 7/1919),Truck Co. 36 (10/16/1919 - 4/12/1927),,,,,,,,First apparatus for Truck 36,
+E-37,1919,Mack AC (tractor),,Truck Co. 37 (1/1/1919 - 1923),Truck Co. 15 (1924 - 2/29/1928),Truck Co. 25 (4/1/1930 - 12/3/1942),,Truck Co. 19 (2/11/1946 - 4/20/1946),,,,,First apparatus for Truck 37; rebuilt & repainted March 1927,
+E-38,1921,Mack AC (tractor),,Truck Co. 37 (1923 - 2/4/1931),Truck Co. 35 (9/16/1931 - 5/2/1932),Truck Co. 32 (5/12/1932 - 1/19/1944),Truck Co. 32 (7/14/1949 - 9/15/1949),,Truck Co. 34 (8/1/1952 - 3/7/1954),,,,,
+E-39,1916,White (tractor),,Truck Co. 20 (12/1916 - 11/1/1921),Truck Co. 13 (1923 - 8/15/1927),,,,,,,,First motorized apparatus for Truck 20,
+E-40,1921,Mack AC (tractor),,Truck Co. 1 (1923 - 10/23/1928),Truck Co. 8 (4/17/1929 - 1/29/1948),,,,,,,,,
+E-41,1919,Mack AC (tractor),,Truck Co. 6 (6/1919 - 8/1/1920),Truck Co. 39 (8/31/1937 - 10/19/1927),Truck Co. 43 (5/10/1928 - 10/9/1928),Truck Co. 27 (10/1/1935 - 2/20/1945),,,,,,,
+E-42,1920,Mack AC (tractor),,Truck Co. 19 (1920 - 11/1921),Truck Co. 46 (5/1/1928 - 5/26/1928),Truck Co. 50 (2/1/1929 - 7/5/1929),Truck Co. 48 (7/6/1929 - 10/9/1943),Truck Co. 32 (1/19/1944 - 4/10/1945),,,,,First apparatus for Truck 46; first apparatus for Truck 50,
+E-43,1918,Mack AC (tractor),,Truck Co. 9 (4/1918 - 11/1921),Truck Co. 6 (9/1/1924 - 1926),Truck Co. 24 (8/30/1927 - 1/3/1941),Truck Co. 40 (3/23/1942 - 4/18/1946),,,,,,,
+E-44,1921,Mack AC (tractor),,,Truck Co. 10 (1/1923 - 10/22/1928),Truck Co. 25 (10/31/1928 - 4/1/1930),Truck Co. 29 (2/3/1936 - 5/4/1938),Truck Co. 43 (3/1/1941 - 11/4/1942),,,,,,
+E-45,1918,Mack AC (tractor),,Truck Co. 31 (4/1918 - 11/1921),,Truck Co. 10 (4/3/1937 - 12/7/1942),Truck Co. 21 (11/22/1944 - 2/21/1946),Truck Co. 21 (12/27/1946 - 4/2/1947),Truck Co. 21 (10/13/1947 - 1/8/1948),,,,,
+E-46,1916,Sauer (tractor),,Truck Co. 31 (8/1916 - 4/1918),Truck Co. 24 (1920 - 11/1921),,,,,,,,First motorized apparatus for Truck 24,
+E-47,1916,Seagrave SF 1-piece,,Truck Co. 11 (1916 - 1921),Truck Co. 20 (11/1/1921 - 6/4/1925),Truck Co. 38 (9/16/1925 - 4/20/1947),,,,,,,1-piece truck with rear steering; First apparatus for Truck 38; Truck 38 created with manpower from Engine 93 (when Engine 93 was a reserve engine quartered at Engine 1 downtown),
+E-48,1925,White (tractor),,Truck Co. 25 (5/1925 - 4/28/1927),Truck Co. 27 (5/5/1927 - 4/22/1932),Truck Co. 35 (5/2/1932 - 1/1/1946),,,,,,,,
+E-49,1925,White (tractor),,Truck Co. 30 (6/1925 - 6/1926),Truck Co. 34 (6/2/1926 - 4/22/1932),Truck Co. 47 (8/17/1932 - 5/27/1938),,,,,,,,
+E-50,1925,White (tractor),,Truck Co. 26 (9/22/1925 - 11/3/1926),Truck Co. 20 (6/1925 - 2/24/1943),,,,,,,,,
+E-51,1926,White (tractor),,Truck Co. 4 (7/17/1926 - 4/14/1934),Truck Co. 51 (4/14/1934 - 11/19/1934),Truck Co. 4 (11/19/1934 - 8/10/1936),Truck Co. 14 (10/28/1936 - 6/3/1942),,,,,,Truck 51 & Truck 4 swapped rigs during Century of Progress,
+E-52,1926,White (tractor),,Truck Co. 9 (7/17/1926 - 6/5/1942),,,,,,,,,,
+E-53,1926,Mack AC (tractor),,Truck Co. 11 (10/13/1926 - 12/7/1942),Truck Co. 37 (2/20/1945 - 4/23/1946),Truck Co. 32 (9/15/1949 - 7/22/1950),,,,,,,,
+E-54,1926,Mack AC (tractor),,Truck Co. 7 (10/1926 - 1/1943),Truck Co. 43 (2/8/1943 - 11/23/1949),,,,,,,,Spare truck in 1952,
+E-55,1926,Mack AC (tractor),,Truck Co. 31 (10/1926 - 11/17/1928),Truck Co. 49 (4/1/1929 - 10/15/1929),Truck Co. 49 (4/2/1930 - 7/2/1954),,,,,,,First apparatus for Truck 49,
+E-56,1926,Mack AC (tractor),,Truck Co. 6 (4/15/1927 - 11/17/1928),Truck Co. 31 (11/17/1928 - 4/13/1934),Truck Co. 47 (4/13/1934 - 11/19/1934),Truck Co. 31 (11/19/1934 - 1/26/1943),,,,,,,
+E-57,1926,White (tractor),,Truck Co. 12 (11/1926 - 5/2/1938),Truck Co. 41 (5/27/1938 - 1/15/1943),,,,,,,,,
+E-58,1926,White (tractor),,Truck Co. 28 (11/5/1926 - 11/30/1938),Truck Co. 24 (1/3/1941 - 10/31/1946),,,,,,,,,
+E-59,1916,White (tractor),,,,Truck Co. 22 (11/13/1926 - 3/26/1943),,,,,,,,
+E-60,1926,White (tractor),,Truck Co. 39 (8/16/1927 - 8/31/1927),Truck Co. 41 (1/1/1928 - 1/26/1931),Truck Co. 37 (2/4/1931 - 11/27/1946),Truck Co. 35 (2/2/1948 - 11/24/1950),,,,,,First apparatus for Truck 41,
+E-61,1927,White (tractor),,Truck Co. 33 (3/15/1927 - 3/1/1948),Truck Co. 53 (6/3/1949 - 12/31/1949),,,,,,,,First apparatus for Truck 53,
+E-62,1927,White (tractor),,Truck Co. 21 (4/2/1927 - 11/22/1944),Truck Co. 35 (1/1/1946 - 2/2/1948),,,,,,,,,
+E-63,1927,Mack (tractor),,Truck Co. 16 (9/19/1927 - 12/17/1942),Truck Co. 41 (1/15/1943 - 5/22/1950),,,,,,,,,
+E-64,1927,Mack (tractor),,Truck Co. 2 (10/18/1927 - 6/19/1928),Truck Co. 18 (7/5/1928 - 3/13/1944),Truck Co. 19 (6/1/1945 - 2/11/1946),Truck Co. 32 (3/22/1946 - 7/14/1949),,,,,,,
+E-65,1927,Mack (tractor),,Truck Co. 39 (1/25/1928 - 12/7/1942),Truck Co. 48 (10/9/1943 - 11/24/1950),,,,,,,,,
+E-66,1927,Mack (tractor),,,Truck Co. 42 (1/1/1928 - 9/28/1931),Truck Co. 26 (10/3/1931 - 12/30/1942),Truck Co. 22 (3/26/1943 - 4/18/1943),Truck Co. 20 (4/15/1944 - 12/28/1946),Truck Co. 34 (11/14/1947 - 9/16/1950),,,,First apparatus for Truck 42,
+E-67,1927,Mack (tractor),,Truck Co. 15 (3/1/1928 - 12/10/1942),Truck Co. 22 (4/15/1944 - 12/19/1944),Truck Co. 23 (2/23/1945 - 2/9/1946),Truck Co. 19 (4/10/1946 - 5/22/1946),Truck Co. 40 (9/19/1947 - 9/1/1949),Truck Co. 34 (6/2/1951 - 12/7/1951),,,,Damaged in Union Stockyards fire 5/19/1934 & rebuilt by shops,Truck 15 (chicagofd.org)
+E-68,1928,Seagrave CS 1-piece,,Truck Co. 46 (10/3/28 - 8/7/1951),,,,,,,,,,
+E-69,1928,Seagrave,,Truck Co. 23 (12/6/1928 - 2/23/1945),,Truck Co. 23 (2/9/1946 - 3/2/1946),Truck Co. 24 (10/31/1946 - 5/25/1955),,,,,,,
+E-70,1928,Seagrave,,Truck Co. 2 (10/22/1928 - 4/14/1938),Truck Co. 12 (5/4/1938 - 9/26/1949),Truck Co. 53 (12/31/1949 - 9/13/1954),,,,,,,,
+E-71,1928,Seagrave,,Truck Co. 1 (10/23/1928 - 4/22/1938),Truck Co. 29 (5/11/1938 - 11/30/1949),Truck Co. 41 (5/22/1950 - 9/28/1954),Truck Co. 54 (10/21/1954 - 9/12/1956),Truck Co. 6,,,,,,
+E-72,1928,Seagrave,,Truck Co. 6 (11/17/1928 - 4/26/1938),Truck Co. 17 (12/22/1938 - 11/8/1950),Truck Co. 29,,,,,,,,
+E-73,1928,Seagrave,,Truck Co. 47 (12/1/1928 - 4/13/1934),Truck Co. 31 (4/13/1934 - 11/19/1934),Truck Co. 47 (11/19/1934 - 4/22/1955),,,,,,,First apparatus for Truck 47; Truck Co. 47’s rig loaned to Truck 31 for Century of Progress in 1934,
+E-74,1929,Seagrave,,Truck Co. 50 (7/5/1929 - 3/22/1946),Truck Co. 52 (6/7/1949 - 11/5/1949),Truck Co. 56 (2/1/1954 - 12/27/1959),,,,,,,First apparatus for Truck 56,Truck 56 (Steve Redick)
+E-75,1929,Seagrave 1-Piece,,Truck Co. 45 (7/15/1929 - 4/22/1932),Truck Co. 52 (4/22/1932 - 2/7/1946),Truck Co. 50 (3/22/1946 - 10/20/1949),Truck Co. 55 (3/1/1950 - 5/20/1959),,,,,,First Truck 45 (at E121’s house) OOS 4/22/1932; first apparatus for Truck 55,Truck 55 (Steve Redick)
+E-76,1928,Seagrave,,Truck Co. 51 (12/16/1929 - 4/14/1934),Truck Co. 4 (4/14/1934 - 11/19/1934),Truck Co. 51 (11/19/1934 - 11/9/1949),Truck Co. 52 (2/6/1950 - 12/10/1952),,,,,,First apparatus for Truck 51,
+E-77,1929,White (tractor),,Truck Co. 49 (10/15/1929 - 4/2/1930),Truck Co. 9 (6/5/1942 - 2/16/1956),Truck Co. 3 (1/16/1931 - 5/13/1942),Air Compressor 1 (9 - 3 - 1) (7/11/1956 - 9/3/1966),,,,,,Converted in CFD shops; Air Compressor 1 OOS from 1/30/1958 - 9/24/1958; Air Compressor 1 in storage at Engine 14‘s old house 12/16/1961 - 9/6/1963; Air Compressor 1 permanently OOS 9/3/1966; last Air Compressor in CFD,Air Compressor 1 (Steve Redick)
+E-78,1938,White (tractor),,Truck Co. 2 (4/14/1938 - 9/29/1944),Truck Co. 31 (1/26/1943 - 12/12/1944),Truck Co 22 (12/19/1944 - 8/18/1949),Truck Co. 29 (11/30/1949 - 1/2/1964),Truck Co. 34 (10/15/1958 - 12/24/1959),,,,,*Conflict,
+E-79,1938,White (tractor),,Truck Co. 1 (4/22/1938 - 1/15/1943),Truck Co. 44 (1/10/1945 - 8/29/1949),Truck Co. 32 (11/24/1950 - 9/30/1954),Truck Co. 54 (9/12/1956 - 2/1/1962),,,,,,,
+E-80,1938,White (tractor),,Truck Co. 5 (4/13/1938 - 11/19/1946),Truck Co. 20 (12/28/1946 - 7/9/1954),Truck Co. 45 (1/18/1963 - 6/14/1963),,,,,,,,Truck 20 (Terry Spirek)
+E-81,1938,White (tractor),,Truck Co. 6 (4/26/1938 - 5/14/1942),Truck Co. 14 (6/3/1942 - 10/18/1949),Truck Co. 48 (11/24/1950 - 2/1/1956),,,,,,,,
+E-82,1938,White (tractor),,Truck Co. 8 (4/9/1938 - 10/14/1949),Truck Co. 43 (11/23/1949 - 9/25/1956),,,,,,,,,
+E-83,1938,White (tractor),,Truck Co. 28 (11/30/1938 - 4/27/1950),Truck Co. 52 (12/10/1952? - 10/15/1956),,,,,,,,,
+E-84,1942,American LaFrance (tractor),,Truck Co. 6 (5/14/1942 - 8/1/1963),Truck Co. 31 (8/1/1963 - ?),Truck Co. 35 (4/16/1970 - 12/9/1972),,,,,,,Truck 6 OOS 8/1/1963,Truck 31 (Terry Spirek)
+E-85,1942,American LaFrance (tractor),,Truck Co. 1 (1/15/1943 - 2/13/1967),Truck Co. 3 (5/13/1942 - 12/5/1942),,,,,,,,Diesel engine installed 2/6/1952,Truck 1 (Steve Redick)
+E-86,1942,Pirsch (tractor),,Truck Co. 3 (12/5/1942 - 10/5/1959),Truck Co. 44 (1/29/1960 - 5/6/1966),,,,,,,,Sedan cab,
+E-87,1942,Mack (tractor),,Truck Co. 25 (12/3/1942 - 8/24/1949),Truck Co. 42 (11/9/1954 - 11/17/1966),Truck Co. 24 (12/29/1967 - 10/17/1968),,,,,,,,
+E-88,1942,Mack (tractor),,Truck Co. 39 (12/7/1942 - 12/29/1944),Truck Co. 36 (1/24/1945 - 1/19/1967),Truck Co. 45 (3/1/1968 - 1/10/1969),,,,,,,,
+E-89,1942,Mack (tractor),,Truck Co. 13 (12/10/1942 - 10/3/1949),Truck Co. 35 (11/24/1950 - 10/11/1957),Truck Co. 56 (12/27/1959 - 7/6/1964),Truck. Co. 52 (9/30/1965 - 7/13/1967),,,,,,,
+E-90,1942,Mack (tractor),,Truck Co. 10 (12/7/1942 - 12/20/1946),Truck Co. 30 (2/12/1947 - 5/24/1956),Truck Co. 52 (1/2/1964 - 8/23/1965),,,,,,,,
+E-91,1942,Mack (tractor),,Truck Co. 11 (12/7/1942 - 9/17/1949),Truck Co. 46 (8/7/1951 - 9/15/1954),Truck Co. 37 (4/18/1960 - ?),Truck Co. 54 (3/31/1964 - 7/26/1966),Truck Co. 45 (1/17/1967 - 2/27/1968),,,,,Last regularly assigned CFD Truck Co. without an aerial ladder (while at T54 - see F-36),
+E-92,1942,Mack (tractor),,Truck Co. 15 (12/10/1942 - 8/10/1946),Truck Co. 21 (2/20/1948 - 10/12/1954),Truck Co. 56 (7/16/1965 - 7/29/1966),,,,,,,,
+E-93,1942,Mack (tractor),,Truck Co. 18 (3/13/1944 - 2/14/1956),Truck Co. 52 (10/15/1956 - 1/2/1964),,,,,,,,,Truck 18 (chicagofd.org)
+E-94,1942,Mack (tractor),,Truck Co. 7 (1/1943 - 10/7/1949),Truck Co. 47 (4/22/1955 - 3/8/1956),Truck Co. 35 (10/11/1957 - 7/12/1966),Truck Co. 56 (8/11/1966 - 12/2/1966),Truck Co. 33 (7/27/1967 - 11/15/1968),,,,,,
+E-95,1942,Mack (tractor),,Truck Co. 26 (12/30/1942 - 11/4/1954),,,,,,,,,,
+E-96,1942,Mack (tractor),,Truck Co. 16 (12/18/1942 - 11/5/1954),Chemical 5 (6 3 - 5) (1/2/1962 - 9/23/1968),,,,,,,,Pulled G-188; was lettered “Airport Tanker 1” though radio call sign was Chemical 5,Airport Tanker 1 (Steve Redick)
+E-97,1944,Pirsch (tractor),,Truck Co. 2 (9/29/1944 - 5/28/1954),Truck Co. 28 (6/14/1957 - 3/30/1970),,,,,,,,,
+E-98,1944,Pirsch (tractor),,Truck Co. 31 (12/12/1944 - 8/1/1963),Truck Co. 15 (5/27/1964 - 11/16/1968),Truck Co. 16 (11/16/1968 - 1/3/1969),Truck Co. 28 (1/1969 - 3/30/1970),,,,,,,Truck 31 (Steve Redick)
+E-99,1944,Pirsch (tractor),,Truck Co. 39 (12/29/1944 - 2/25/1960),Truck Co. 38 (2/27/1960 - ?),Truck Co. 56 (7/6/1964 - 7/16/1965),Truck Co. 38 (8/17/1965? - 12/8/1972),,,,,,Truck 38 lettering remained while at Truck 56,
+E-100,1946,Mack (tractor),,Truck Co. 52 (2/7/1946 - 6/7/1949),Truck Co. 45 (6/8/1949 - 10/15/1959),Truck Co. 29 (1/2/1964 - 5/26/1968),,,,,,,,
+E-101,1946,Mack (tractor),,Truck Co. 23 (3/2/1946 - 10/3/1967),,,,,,,,,,Truck 23 (Steve Redick)
+E-102,1946,Mack (tractor),,Truck Co. 19 (5/22/1946 - 10/8/1954),Truck Co. 43 (9/25/1956 - 11/16/1968),,,,,,,,,
+E-103,1946,Mack (tractor),,Truck Co. 21 (4/5/1946 - 12/27/1946),Truck Co. 8 (5/7/1948 - 10/19/1954),Truck Co. 45 (10/15/1959 - 1/18/1963),Truck Co. 45 (6/14/1963 - 8/10/1966),,,,,,"Seriously damaged in accident with streetcar at Southport & Henderson, 12/27/1946; rebuilt",Truck 45 (Terry Spirek)
+E-104,1946,Mack (tractor),,Truck Co. 15 (8/10/1946 - 10/19/1954),,Truck Co. 24 (9/12/1956 - 12/29/1967),,,,,,,,
+E-105,1946,Mack (tractor),,Truck Co. 27 (9/13/1946 - 6/29/1954),Truck Co. 38 (1/5/1955 - 2/27/1960),Truck Co. 17 (11/29/1961 - 1/19/1967),Truck Co. 36 (12/4/1967 - 8/28/1969),,,,,,,Truck 17 (Steve Redick)
+E-106,1946,Mack (tractor),,Truck Co. 37 (11/27/1946 - 9/12/1949),Truck Co. 37 (10/19/1949 - 6/7/1956),,,,,,,,,
+E-107,1946,Pirsch (tractor),,Truck Co. 5 (11/19/1946 - 7/30/1959),Truck Co. 34 (12/24/1959 - 11/20/1968),Truck Co. 19 (7/18/1969 - 5/25/1970),Truck Co. 47 (9/4/1970 - 9/29/1971),Truck Co. 47 (6/30/1972 - 3/18/1973),,,,,,
+E-108,1946,Pirsch (tractor),,Truck Co. 10 (12/20/1946 - 6/12/1954),Truck Co. 48 (2/1/1956 - 7/24/1958),Truck Co. 1 (2/13/1967 - 4/16/1968),Truck Co. 12 (4/11/1968 - 4/22/1968),,,,,,,
+E-109,1949,FWD (tractor),,Truck Co. 22 (8/18/1949 - 11/7/1968),Truck Co. 57 (12/13/1968 - 3/4/1972),,,,,,,,,
+E-110,1949,FWD (tractor),,Truck Co. 25 (8/24/1949 - 12/26/1969),,,,,,,,,,
+E-111,1949,FWD (tractor),,Truck Co. 44 (8/29/1949 - 1/29/1960),,Truck Co. 54 (8/5/1966 - 3/4/1967),Truck Co. 22 (11/18/1968 - 12/13/1968),Truck Co. 52 (1/3/1969 - 1/4/1971),,,,,,
+E-112,1949,FWD (tractor),,Truck Co. 40 (9/1/1949 - 1/5/1967),Truck Co. 37 (11/10/1972 - 9/3/1973),,,,,,,,,
+E-113,1949,FWD (tractor),,Truck Co. 37 (9/12/1949 - 10/19/1949),Truck Co. 51 (11/9/1949 - 5/22/1970),,,,,,,,,
+E-114,1949,FWD (tractor),,Truck Co. 11 (9/17/1949 - 5/31/1956),Truck Co. 59 (4/2/1957 - 3/12/1970),Truck Co. 28 (3/30/1970 - 6/5/1970),,,,,,,First apparatus for Truck 59,
+E-115,1949,FWD (tractor),,Truck Co. 12 (9/26/1949 - 9/10/1967),Truck Co. 22 (11/7/1968 - 11/18/1968),Truck Co. 24 (12/5/1968 - 11/19/1969),Truck Co. 7 (6/10/1970 - 9/11/1970),Truck Co. 24 (11/12/1974 - 10/16/1975),,,,,Retained DX-40 light,Truck 24 (firemann57)
+E-116,1949,FWD (tractor),,Truck Co. 13 (10/3/1949 - 9/28/1973),,,,,,,,,,Truck 13 (Midwest Fire Depts)
+E-117,1949,FWD (tractor),,Truck Co. 7 (9/30/1949 - 6/10/1970),Truck Co. 24 (6/19/1970 - 6/7/1972),Truck Co. 57 (6/5/1973 - 11/8/1973),Truck Co. 13 (12/6/1973 - 9/30/1974),,,,,,Remained lettered as Truck 24 while at Truck 13,
+E-118,1949,FWD (tractor),,Truck Co. 4 (10/14/1949 - 1/28/1967),Truck Co. 14 (1/4/1969 - 6/7/1969),Truck Co. 36 (8/28/1969 - 5/18/1970),,,,,,,,
+E-119,1949,FWD (tractor),,Truck Co. 14 (10/18/1949 - 4/11/1965),Truck Co. 14 (6/30/1965 - 6/13/1967),Truck Co. 12 (9/10/1967 - 12/6/1967),,,,,,,,Truck 14 (Bill Friedrich)
+E-120,1949,FWD (tractor),,Truck Co. 50 (10/20/1949 - 3/8/1972),,,,,,,,,,
+E-121,1950,Available (tractor),,Truck Co. 28 (4/27/1950 - 6/14/1957),,Truck Co. 57 (8/12/1962 - 1/20/1966),Truck Co. 26 (3/4/1967 - 3/12/1967),Truck Co. 14 (6/13/1967 - 1/4/1969),Truck Co. 14 (6/7/1969 - 4/3/1970),,,,,Truck 28 (chicagofd.org) E-121 or E-122 (Steve Redick)
+E-122,1950,Available (tractor),,Truck Co. 17 (11/8/1950 - 11/29/1961),Truck Co. 54 (2/1/1962 - 8/29/1963),Truck Co. 52 (7/13/1967 - 12/17/1968),Truck Co. 24 (11/19/1969 - 5/26/1970),,,,,,,
+E-123,1954,Pirsch (tractor),,Truck Co. 2 (5/28/1954 - 11/16/1968),Truck Co. 15 (11/16/1968 - 1/10/1969),Truck Co. 10 (1/10/1969 - 2/20/1970),Truck Co. 19 (6/1/1970 - 1/25/1971),Truck Co. 47 (9/29/1971 - 6/15/1972),Truck Co. 35 (3/13/1974 - 7/8/1974),,,,,Truck 2 (Steve Redick)
+E-124,1954,Pirsch (tractor),,Truck Co. 10 (6/12/1954 - 7/28/1959),Truck Co. 5 (7/30/1959 - 6/3/1966),Truck Co. 46 (3/11/1968 - 7/19/1970),Truck Co. 44 (5/6/1966 - 10/17/1967),Truck Co. 41 (5/2/1972 - 8/23/1976),,,,,,Truck 41 (chicagofd.org) Truck 41 (firemann57)
+E-125,1954,Pirsch (tractor),,Truck Co. 27 (6/29/1954 - 3/21/1975),,,,,,,,,,Truck 27 (firemann57) Truck 27 (firemann57)
+E-126,1954,Pirsch (tractor),,Truck Co. 20 (7/9/1954 - 5/27/1970),,,Truck Co. 35 (12/9/1972 - 3/13/1974),,,,,,Truck Co. 21 may have had one of these Pirsch’s around 1970 - it was a unit retrofitted with an Aurora Borealis light and hood repainted to “Chicago Fire Dept.”,Truck 35 (firemann57) Truck 35 (mbernero)
+E-127,1954,Pirsch (tractor),,Truck Co. 49 (7/2/1954 - 5/9/1975),,,,,,,,,,
+E-128,1954,Pirsch (tractor),,Truck Co. 34 (7/16/1954 - 10/15/1958),Truck Co. 11 (7/17/1959 - 1/30/1970),Truck Co. 19 (10/28/1972 - 3/13/1975),,,,,,,,Truck 11 (Steve Redick)
+E-129,1954,Pirsch (tractor),,,Truck Co. 48 (7/24/1958 - 8/4/1966),,Truck Co. 34 (11/20/1968 - 2/20/1970),Truck Co. 14 (9/11/1970 - 9/24/1976),,,,,,Truck 14 (Bill Friedrich)
+E-130,1954,FWD (tractor),,Truck Co. 46 (9/15/1954 - 7/10/1967),,Truck Co. 23 (10/1969 - 1/1970),,,,,,,,
+E-131,1954,FWD (tractor),,Truck Co. 53 (9/13/1954 - 8/3/1972),,,,,,,,,,Truck 53 (Steve Redick)
+E-132,1954,FWD (tractor),,Truck Co. 33 (9/17/1954 - 7/27/1967),,Truck Co. 12 (4/22/1968 - 6/14/1968),Truck Co. 33 (11/15/1968 - 5/29/1975),,,,,,,Truck 33 (Steve Redick) Truck 33 (firemann57) Former Truck 33 (firemann57)
+E-133,1954,FWD (tractor),,Truck Co. 41 (9/28/1954 - 5/2/1972),Truck Co. 24 (7/8/1972 - 8/21/1973),Truck Co. 54 (9/20/1973 - 1/30/1975),,,,,,,,
+E-134,1954,FWD (tractor),,Truck Co. 21 (10/12/1954 - 9/28/1969),Truck Co. 54 (10/7/1969 - 5/18/1970),Truck Co. 52 (1/27/1973 - 7/1/1973),,,,,,,,Truck 21 (Bill Friedrich)
+E-135,1954,FWD (tractor),,Truck Co. 32 (9/30/1954 - 3/27/1970),Truck Co. 19 (7/6/1962 - 11/16/1962),,,,,,,,*Conflict,
+E-136,1954,FWD (tractor),,Truck Co. 19 (10/8/1954 - 7/6/1962),Truck Co. 9 (9/3/1963 - 7/14/1967),,,,,,,,,
+E-137,1954,FWD (tractor),,Truck Co. 26 (11/4/1954 - 8/12/1965),Truck Co. 26 (12/14/1965 - 3/4/1967),Truck Co. 54 (10/17/1967 - 11/9/1967),Truck Co. 48 (7/24/1967 - 7/21/1968),Truck Co. 54 (7/21/1968 - 10/7/1969),Truck Co. 26 (10/7/1969 - 4/13/1970),Truck Co. 54 (5/22/1970 - 8/28/1973),,,Truck Co. 26 temporarily out of service from 8/12/1965 - 12/14/1965,Truck 26 (Steve Redick) Former Truck 54 tractor (firemann57) Former Truck 54 tractor (firemann57)
+E-138,1954,FWD (tractor),,Truck Co. 8 (10/19/1954 - 9/28/1969),Truck Co. 21 (9/28/1969 - 7/7/1970),Truck Co. 53 (8/18/1972 - 12/9/1976),,,,,,,,Truck 8 (Steve Redick)
+E-139,1954,FWD (tractor),,Truck Co. 15 (10/19/1954 - 10/17/1958),,,,,,,,,"Totaled in accident with Engine 48 at Pershing & Cottage Grove, 10/17/1958",
+E-140,1954,FWD (tractor),,Truck Co. 16 (11/5/1954 - 11/16/1968),Truck Co. 43 (11/16/1968 - 7/14/1971),Truck Co. 50 (4/28/1972 - 2/27/1973),Truck Co. 57 (11/8/1973 - 8/30/1974),,,,,,,
+E-141,1954,FWD (tractor),,Truck Co. 57 (1/18/1955 - 5/22/1962),Truck Co. 19 (11/16/1962 - 7/9/1968),Truck Co. 14 (4/3/1970 - 6/7/1970),Truck Co. 57 (4/14/1972 - 6/5/1973),Truck Co. 52 (7/1/1973 - 9/5/1975),,,,,First apparatus for Truck 57; remained numbered as Truck 57 while at Truck 19,
+E-142,1954,FWD (tractor),,,Truck Co. 15 (10/17/1958 - 4/1960),Truck Co. 62,Truck Co. 39 (5/24/1969? - 6/16/1969),,,,,,First apparatus for Truck 62; Truck 39 OOS 6/16/1969,
+E-143,1956,FWD (tractor),,Truck Co. 37 (6/7/1956 - 12/18/1959),Truck Co. 60 (12/20/1959 - 2/7/1975),,,,,,,,First apparatus for Truck 60; E-143 commonly assigned as city-wide spare from 1964 to 1971 since aerial ladder functioned,Truck 37 (Steve Redick)
+E-144,1956,FWD (tractor),,Truck Co. 18 (2/14/1956 - 9/17/1970),Truck Co. 37 (1/21/1971 - 11/6/1971),,,,,,,,,
+E-145,1956,FWD (tractor),,Truck Co. 9 (2/16/1956 - 9/3/1963),Truck Co. 37 (9/4/1963 - 12/20/1963),Truck Co. 37 (3/27/1967 - 10/14/1968),Truck Co. 37 (11/12/1968 - 12/17/1969),Truck Co. 61 (11/16/1970 - 2/21/1974),Truck Co. 57 (8/30/1974 - 5/23/1975),,,,,Truck 9 (Bill Friedrich) Truck 37 (firemann57)
+E-146,1956,FWD (tractor),,Truck Co. 47 (3/8/1956 - 9/4/1970),Truck Co. 50 (8/8/1974 - 2/19/1976),Reserve Truck RT-146,,,,,,,"*From 3/8/1972 - 3/11/1976, Truck 50 was assigned at least ten different FWD tractors, some of which are not identified",RT-146 (Bill Friedrich)
+E-147,1956,FWD (tractor),,Truck Co. 30 (5/24/1956 - 11/2/1960),,Truck Co. 61 (8/29/1961 - 11/16/1970),Truck Co. 52 (1/4/1971 - 11/15/1972),Truck Co. 29 (12/15/1972 - 4/6/1973),,,,,First apparatus for Truck 61,Truck 61 (Bill Friedrich)
+E-148,1956,FWD (tractor),,Truck Co. 58 (5/16/1956 - 6/30/1972),Truck Co. 29 (6/30/1972 - 12/15/1972),Truck Co. 50 (4/24/1973 - 12/24/1973),Truck Co. 35 (7/8/1974 - 7/15/1976),,,,,,First apparatus for Truck 58,
+E-149,1956,FWD (tractor),,Truck Co. 11 (5/31/1956 - 7/17/1959),Truck Co. 55 (7/31/1959 - 3/28/1975),,,,,,,,,
+E-150,1959,Mack B/Magirus 100’ rear mount,,Truck Co. 10 (7/28/1959 - 1/5/1969),Truck Co. 45 (1/10/1969 - 5/21/1976),Truck Co. 8 (6/3/1976 - 4/26/1977),Truck Co. 59 (4/27/1977 - 5/5/1977),,,,,,"Privately owned (in Marietta, NY) as of summer 2008",Truck 10 (Steve Redick) Truck 10 (Steve Redick) Truck 10 (Steve Redick) Truck 45 (chicagofd.org)
+E-151,1959,Mack B/Magirus 100’ rear mount,,Truck Co. 3 (10/5/1959 - 2/23/1960),Truck Co. 39 (2/25/1960 - 4/29/1960),Truck Co. 30 (11/2/1960 - 2/24/1970),Truck Co. 59 (3/12/1970 - 4/27/1977),,,,,,Mars DX-40s on roof and Mars 888s on fenders gone while at Truck 59 - Federal Beacon-Rays instead; large side lettering removed by Truck 59 stay,Truck 3 (Steve Redick) Truck 59 (firemann57) Truck 59 (firemann57) Truck 59 (firemann57) Truck 59 (firemann57)
+E-152,1959,Mack B/Magirus 144’ rear mount,,Truck Co. 3 (2/23/1960 - 5/24/1969),Truck Co. 8 (9/28/1969 - 6/3/1976),,,,,,,,,Truck 3 (Steve Redick) Truck 8 (Bill Friedrich)
+E-153,1959,Mack B/Magirus 144’ rear mount,,Truck Co. 39 (4/29/1960 - 5/24/1969?),Truck Co. 3 (5/24/1969 - 1/15/1970),Truck Co. 2 (1/28/1970 - 1/20/1975),,,,,,,,Truck 3 (Bill Friedrich) Truck 2 (chicagofd.org) Truck 2 (chicagofd.org) Truck 2 (firemann57)
+E-154,1960,Mack (tractor),,Truck Co. 37 (12/20/1963 - 6/9/1965),Truck Co. 35 (7/12/1966 - 4/16/1970),Truck Co. 25 (7/24/1970 - 3/14/1974),Truck Co. 54 (1/30/1975 - 7/7/1977),,,,,,,
+E-155,1960,Mack (tractor),,Truck Co. 15 (4/1960 - 8/1/1963),Truck Co. 54 (8/31/1963 - 2/11/1964),Truck Co. 26 (4/17/1967 - 9/1/1967),Truck Co. 12 (9/6/1967 - 1/23/1968),Truck Co. 24 (8/21/1973 - 11/12/1974),,,,,,
+E-156,,,,,,,,,,,,,,
+E-157,1966,Mack C/Pirsch 100’ mid mount,,Truck Co. 56 (12/2/1966 - 2/22/1978),,,,,,,,,,Truck 56 (Midwest Fire Depts)
+E-158,1966,Mack C/Pirsch 100’ mid mount,,Truck Co. 4 (1/28/1967 - 2/18/1974),Truck Co. 25 (3/14/1974 - 5/25/1977),,,,,,,,,Truck 25 (Bill Friedrich)
+E-159,1966,Mack C/Pirsch 100’ mid mount,,Truck Co. 17 (1/19/1967 - 4/7/1978),,,,,,,,,,Truck 17 (Bill Friedrich)
+E-160,1966,Mack C/Pirsch 100’ mid mount,,Truck Co. 5 (12/16/1966 - 10/27/1972),Truck Co. 38 (12/8/1972 - 3/23/1978),Truck Co. 34 (4/26/1981 - ?),,,,,,,,Truck 5 (Steve Redick) Truck 38 (Bill Friedrich)
+E-161,1966,Mack C/Pirsch 100’ mid mount,,Truck Co. 40 (1/5/1967 - 7/5/1977),,,,,,,,,,
+E-162,1966?,Mack C/Pirsch 100’ mid mount?,,,,,,,,,,,Unconfirmed,
+E-163,1967,Mack MB (tractor),,Truck Co. 29 (5/26/1968 - 6/20/1972),Truck Co. 58 (6/30/1972 - 2/12/1975),Truck Co. 19 (3/13/1975 - 10/24/1975),Truck Co. 24 (11/6/1975 - 1/18/1979),,,,,,,Truck 58 (firemann57) Truck 24 (Midwest Fire Depts)
+E-164,1967,Mack MB (tractor),,Truck Co. 42 (6/16/1971 - 11/8/1976),Truck Co. 62 (12/17/1976 - 12/6/1978),Truck Co. 24 (1/18/1979 - 8/29/1979),,,,,,,,Truck 42 (firemann57) Truck 62 (Midwest Fire Depts) Truck 62 (Bill Friedrich)
+E-165,1967,Mack MB (tractor),,Truck Co. 48 (10/17/1968 - 3/16/1970),Truck Co. 32 (3/27/1970 - 8/4/1980),,,,,,,,,Truck 32 (Steve Redick) Truck 32 (firemann57) Truck 32 (firemann57) Truck 32 (Bill Friedrich) Truck 32 tractor (Bill Friedrich)
+E-166,1967,Seagrave 100’ mid-mount aerial,60_/_200,Truck Co. 26 (9/1/1967 - 10/7/1969),Truck Co. 31 (3/9/1970 - 12/14/1978),Truck Co. 46 (4/30/1971 - 11/16/1971),Reserve Truck RT7,,,,,,Had small booster tank & pump; boosters and pump program on trucks discontinued in 1973 (existing removed & no new orders); Truck 46 OOS 11/16/1971,Truck 31 (Bill Friedrich) Truck 46 (Bill Friedrich) RT7 (Tim Vermande)
+E-167,1967,Seagrave 100’ rear-mount aerial “Rear Admiral”,,Truck Co. 9 (7/14/1967 - 11/16/1968),Truck Co. 2 (11/16/1968 - 1/28/1970),Truck Co. 11 (1/30/1970 - 4/24/1970),Truck Co. 36 (5/18/1970 - 5/4/1976),Truck Co. 35 (7/15/1976 - 7/3/1979),,,,,Had four-wheel steering; Truck 9 OOS 11/16/1968; 100’ aerial may have been added after purchase from Seagrave - this was a demo model,Truck 36 (Midwest Fire Depts) Truck 35 (Bill Friedrich) Truck 35 (Bill Friedrich)
+E-168,1967,Seagrave 100’ mid-mount aerial,,Truck Co. 44 (10/17/1967 - 1/20/1975),Truck Co. 60 (2/7/1975 - 12/15/1978),,,,,,,,,
+E-169,1968,Seagrave 100’ rear-mount aerial “Rear Admiral”,,Truck Co. 1 (4/16/1968 - 3/22/1973),Truck Co. 29 (7/23/1973 - 12/16/1978),Truck Co. 32 (8/4/1980 - 2/14/1981),,,,,,,,Truck 29 (firemann57) Truck 29 (Bill Friedrich)
+E-170,1968,Mack CF-600/Pirsch 100’ rear mount,60_/_300,Truck Co. 22 (12/13/1968 - 1/30/1973),Truck Co. 47 (7/2/1973 - 5/5/1977),Truck Co. 16 (5/20/1977 - 12/20/1978),Truck Co. 35 (7/3/1979 - 7/23/1981),Truck Co. 34,,,,,Had small booster tank & pump - was the tank 60 or 100 gallons (for all 3)?; Canvas replaced metal door to cover rear jacks; underwent minor rehab work & removal of booster reels before assignment to Truck 34,Truck 47 (Bill Friedrich) Truck 34 (Bill Friedrich)
+E-171,1968,Mack CF-600/Pirsch 100’ rear mount,60_/_300,Truck Co. 16 (1/3/1969 - 2/1/1977),,,,,,,,,Had small booster tank & pump; destroyed in accident with “L” pillar at 63rd & Dorchester 2/1/1977; aerial ladder placed on E-229,Truck 16 (Bill Friedrich)
+E-172,1968,Mack CF-600/Pirsch 100’ rear mount,60_/_300,Truck Co. 15 (1/10/1969 - 1/19/1973),Truck Co. 37 (3/9/1973 - 12/19/1980),Truck Co. 32,Spare truck,,,,,,Had small booster tank & pump; rear jacks had no cover,Truck 37 (Midwest Fire Depts) Truck 37 (Bill Friedrich) Truck 32 (Bill Friedrich) Truck 32 tractor (Bill Friedrich) Spare truck (Bill Friedrich)
+E-173,1968,Seagrave 100’ rear-mount aerial “Rear Admiral”,60_/_250,Truck Co. 63 (1968 - 1988),,,,,,,,,Assigned to O’Hare airport; had four-wheel steering; still in service October 1985,Truck 63 (Bill Friedrich) Truck 63 (Steve Redick)
+E-174,1969,Seagrave 100’ rear mount aerial,,Truck Co. 3 (1/15/1970 - 2/28/1973),Truck Co. 23 (3/28/1973 - 4/8/1982),Spare truck,,,,,,,Still in service as spare 1/26/1986,Truck 23 (Bill Friedrich) Spare truck (John Tulipano)
+E-175,1969,Seagrave 100’ rear mount aerial,,Truck Co. 30 (2/24/1970 - 3/29/1982),,,,,,,,,,Truck 30 (Bill Friedrich)
+E-176,1970,Seagrave 100’ rear mount aerial,100_/_300,Truck Co. 48 (3/16/1970 - 3/24/1982),Truck Co. 7 (7/18/1991 - 4/16/1996),Truck Co. 4 (5/1996 - 1/11/2001),Truck Co. 44 (1/10/2002 - 1/15/2002),,,,,,"Rebuilt 1991; One of eight with booster tank, pump, two 250’ 3/4” booster hose reels",Truck 48 (Bill Friedrich) Truck 48 (Bill Friedrich) Truck 7 (Bill Friedrich) Truck 4 (Smith Bros) Truck 4 (columind99)
+E-177,1970,Seagrave 100’ rear mount aerial,100_/_300,Truck Co.  26 (4/13/1970 - 3/24/1982),Spare truck,,,,,,,,Used until at least early 1990s,
+E-178,1970,Seagrave 100’ rear mount aerial,100_/_300,Truck Co. 11 (4/24/1970 - 10/15/1982),Truck Co. 24 (6/21/1991 - 4/29/2000),,,,,,,,Rebuilt in 1991; White stripe later added; was unit involved in 4/29/2000 wreck that killed CFD lieutenant; sold at auction 3/4/2006,Truck 11 (Bill Friedrich) Truck 11 (Bill Friedrich) Truck 24 (columind99) Truck 24 (Bill Friedrich) Truck 24 (columind99)
+E-179,1970,Seagrave 100’ rear mount aerial,100_/_300,Truck Co. 20 (5/27/1970 - 11/25/1980),Truck Co. 37 (12/19/1980 - 1/7/1981),Spare truck,Truck Co. 13 (7/22/1991 - 7/31/2000),,,,,,Rebuilt by Seagrave in 1991,Truck 20 (columind99) Spare truck (Bill Friedrich) Truck 13 (Bill Friedrich) 
+E-180,1970,Seagrave 100’ rear mount aerial,100_/_300,Truck Co. 51 (5/22/1970 - 12/7/1982),,,,,,,,,"Had two reels of one inch booster hose, but Local 2 union dispute resulted in disabling booster & removing hose reels in 1973",Truck 51 (Bill Friedrich) Truck 51 (Bill Friedrich)
+E-181,1970,Seagrave 100’ rear mount aerial,100_/_300,Truck Co. 28 (10/1/1970 - 3/13/1975),Truck Co. 27 (3/21/1975 - 6/14/1975),Truck Co. 49 (6/14/1975 - 12/14/1982),,,,,,,,Truck 49 (Bill Friedrich)
+E-182,1970,Seagrave 100’ rear mount aerial,100_/_300,Truck Co. 10 (9/10/1970 - 12/9/1980),Spare truck,Truck Co. 55 (4/18/1990 - 7/28/2000),,,,,,,,Truck 10 (Bill Friedrich) Truck 10 (chicagofd.org) Truck 55 (Bill Friedrich) Truck 55 (Smith Bros) Spare truck (Bill Friedrich)
+E-183,1970,WLF P80/Grove 100’ rear mount aerial,,Truck Co. 12 (9/3/1970 - 7/19/1971),,,,,,,,,Booster reel subsequently removed; obviously at Truck 12 longer than dates listed,Truck 12 (Bill Friedrich) Truck 12 (firemann57)
+E-184,1970,WLF P80/Grove 100’ rear mount aerial,,Truck Co. 34 (9/3/1970 - 4/26/1981),,,,,,,,,,Truck 34 (Bill Friedrich)
+E-185,1970,WLF P80/Grove 100’ rear mount aerial,,Truck Co. 21 (9/11/1970 - 3/22/1974),Truck Co. 39 (4/1/1974 - 5/12/1983),Spare truck,,,,,,,,Truck 39 (Bill Friedrich) Truck 39 (Bill Friedrich) Spare truck (Bill Friedrich)
+E-186,1970,WLF P80/Grove 100’ rear mount aerial,,Truck Co. 18 (9/17/1970 - 7/7/1982),,,,,,,,,Booster reel subsequently removed,Truck 18 (Bill Friedrich)
+E-187,1970,WLF P80/Grove 100’ rear mount aerial,,Truck Co. 7 (9/11/1970 - 4/24/1974),Truck Co. 61 (2/21/1974 - 5/12/1983),,,,,,,,Accurate start date at Truck 61 probably 5/10/1974,Truck 61 (Bill Friedrich) Truck 61 (Bill Friedrich) Truck 61 (firemann57)
+E-188,1972,Mack CF/Pirsch 100’ rear mount,,Truck Co. 5 (10/27/1972 - 11/4/1988),Truck Co. 22 (2/14/1991 - 2/5/1993),,,,,,,,Possibly used as Truck Co. 46 in Backdraft; Code 3 Collectibles model replica (as T46),Truck 5 (Midwest Fire Depts) Truck 5 (Bill Friedrich)
+E-189,1972,Mack CF/Pirsch 100’ rear mount,,Truck Co. 22 (1/30/1973 - 2/14/1991),Spare truck,,,,,,,,"Found in junkyard, early 2015 (minus aerial ladder and doors)",Truck 22 (Bill Friedrich) Truck 22 (Bill Friedrich) Remains of E-189 (Kyle Svoboda)
+E-190,1972,Mack CF/Pirsch 100’ rear mount,,Truck Co. 15 (1/19/1973 - 12/21/1992),,,,,,,,,Electronic siren replaced Mars 888 on front grille; modern typeface added; Code 3 Collectibles model replica (of original markings),Truck 15 (Bill Friedrich) Truck 15 (Bill Friedrich)
+E-191,1973,American LaFrance 100’ rear mount aerial,,Truck Co. 3 (2/28/1973 - 1/30/1974),Truck Co. 2 (1/20/1975 - 5/5/1975),Truck Co. 9 (3/13/1974 - 8/27/1991),Spare truck,,,,,,Found in junkyard early 2015 with heavy accident damage to front,E-191 in junkyard (Kyle Svoboda)
+E-192,1973,American LaFrance 100’ rear mount aerial,,Truck Co. 1 (3/22/1973 - 1/15/1975),Truck Co. 55 (6/1975 - 4/18/1990),,,,,,,,,Truck 55 (Midwest Fire Depts) Truck 55 (Bill Friedrich)
+E-193,1973,American LaFrance 100’ rear mount aerial,,Truck Co. 3 (1/30/1974 - 4/24/1975),Truck Co. 49 (5/9/1975 - 6/14/1975),Truck Co. 27 (6/14/1975 - 3/17/1986),Truck Co. 53 (5/4/1987 - 10/25/1993),Spare truck,,,,,Found in junkyard early 2015,Truck 27 (Midwest Fire Depts) Truck 53 (Bill Friedrich) Truck 53 (Bill Friedrich) E-193 in junkyard (Kyle Svoboda)
+E-194,1973,American LaFrance 100’ rear mount aerial,,Truck Co. 4 (2/18/1974 - 8/4/1988),Truck Co. 31 (9/28/1991 - 2/7/2002),,,,,,,,Rebuilt in 1994?; one of two rebuilt ALF ladders,Truck 4 (firemann57) Truck 4 (firemann57) Truck 4 (Bill Friedrich) Truck Co. 31 (Bill Friedrich)
+E-195,1973,American LaFrance 100’ rear mount aerial,,Truck Co. 21 (3/22/1974 - 3/17/1986),Truck Co. 9 (8/27/1991 - 5/16/2002),,,,,,,,Rebuilt in 1991; one of two rebuilt ALF ladders; had white stripe added; “We’re There When You Need Us” slogan added to doors,Truck 21 (Bill Friedrich) Truck 9 (Bill Friedrich) Truck 9 (Bill Friedrich) Truck 9 (Smith Bros)
+E-196,1974,Seagrave 100’ rear mount,,Truck Co. 7 (4/24/1974 - 5/1/1986),Truck Co. 22 (2/17/1993 - 1/16/2002),,,,,,,,Rebuilt in 1992?; one of 22 Seagrave 1969-1982 ladders rebuilt between 1991 & 1994,Truck 7 (Bill Friedrich) Truck 7 (Bill Friedrich) Truck 22 (Bill Friedrich) Truck 22 (Smith Bros)
+E-197,1974,Hendrickson/Pierce/Morita Lift 135’ rear mount aerial,,Truck Co. 1 (1/15/1975 - 2/6/1977),Truck Co. 1 (6/23/1977 - 1987),,,,,,,,"Had elevator alongside aerial; firefighters rode back step “belted in”; originally marked for Truck 2, but didn’t fit in quarters; spent several weeks parked outside fire building with aerial ladder up until representative from Japan could come and fix it; removed from service in 1987 since it didn’t comply with safety regulations",Truck 1 (Midwest Fire Depts) Truck 1 (Bill Friedrich) Truck 1 (columind99)
+E-198,1974,Seagrave 100’ rear-mount aerial,,Truck Co. 44 (1/20/1975 - 4/3/1986),Truck Co. 16 (9/27/1993 - 3/14/2002),,,,,,,,Rebuilt 1993,Truck 16 (Gordon J. Nord)
+E-199,1974,Seagrave 100’ rear-mount aerial,,Truck Co. 56 (2/12/1975 - 4/3/1995),,,,,,,,,,Truck 56 (Bill Friedrich)
+E-200,1974,Seagrave 100’ rear-mount aerial,,Truck Co. 28 (3/13/1975 - 1/9/1980),Truck Co. 44 (4/23/1993 - 1/10/2002),,,,,,,,Still shown on roster as at Truck 28 as of October 1982; rebuilt in 1992,Truck 28 (Bill Friedrich)
+E-201,1974,Seagrave 100’ rear-mount aerial,,Truck Co. 52 (4/10/1975 - 1/31/1994),Spare truck,,,,,,,,"Shown with Truck 3 markings with shop #, unsure if temporary assignment",Truck 52 (columind99) Truck 52 (Bill Friedrich) Truck 3 spare (Bill Friedrich)
+E-202,1975,American LaFrance 100’ rear mount aerial,,Truck Co. 3 (4/24/1975 - 1/19/1985),Truck Co. 1 (1987 - 4/28/1988),,,,,,,,,Truck 3 (Bill Friedrich)
+E-203,1975,American LaFrance 100’ rear mount aerial,,Truck Co. 2 (5/5/1975 - 5/19/1988),,,,,,,,,,Truck 2 (Midwest Fire Depts)
+E-204,1975,Seagrave 100’ rear-mount aerial,,Truck Co. 57 (6/12/1975 - 10/7/1993),Spare truck,,,,,,,,Spotted at U-Haul facility at Cicero & Montrose in 2011; for sale at same facility in March 2014,
+E-205,1975,Seagrave 100’ rear-mount aerial,,Truck Co. 33 (5/29/1975 - 7/15/1993),,,,,,,,,Note: Truck 55 had one of this era Seagrave in the mid to late ‘90s ,Truck 33 (chicagofd.org) Truck 33 (chicagofd.org)
+E-206,1975,Seagrave 100’ rear-mount aerial,,Truck Co. 19 (10/24/1975 - 5/5/1988),Truck Co. 38 (9/9/1993 - 2/8/2002),,,,,,,,Had “Hook & Ladder Co. No.” markings at Truck 19; rebuilt in 1993,Truck 19 (Bill Friedrich) Truck 19 (Gordon J. Nord) Truck 19 (firemann57) Truck 38 (Bill Friedrich)
+E-207,1975,Seagrave 100’ rear-mount aerial,,Truck Co. 50 (3/11/1976 - 5/11/1992),Truck Co. 22 (2/5/1993 - 2/17/1993),Truck Co. 51 (9/2/1994 - 12/4/2000),Truck Co. 4 (1/11/2001 - early 2003?),,,,,,Rebuilt in 1994 (white stripe added),Truck 50 (Midwest Fire Depts) Truck 50 (Bill Friedrich) Truck 50 (Bill Friedrich) Truck 4 (Smith Bros)
+E-208,1976,Seagrave 100’ rear-mount aerial,,Truck Co. 13 (3/8/1976 - 7/22/1991),Truck Co. 52 (1/31/1994 - 11/22/2000),Truck Co. 51 (12/4/2000 - 10/4/2005),Spare truck,Truck Co. 51 (2007 - 9/21/2007),,,,,Rebuilt in 1993 (no bell while at Truck 52); Used at least until 6/18/2005 (probably last unit in service with bell); lost bell sometime between 4/14/2005 and 10/4/2005; used again (minus bell) in 2007-2008 after wreck destroyed new Truck 51 (Dedicated to FF William F. Grant),Truck 13 (Bill Friedrich) Truck 13 (Bill Friedrich) Truck 51 (Gordon J. Nord) Truck 52 (Smith Bros) Truck 51 (Gordon J. Nord) Truck 51 (Smith Bros)
+E-209,1976,American LaFrance 100’ rear mount aerial,,Truck Co. 45 (5/21/1976 - 8/2/2000),,,,,,,,,Minor rehab work done in early 1990s,Truck 45 (fireman57) Truck 45 (firemann57) Truck 45 (Bill Friedrich) Truck 45 (Gordon J. Nord) Truck 45 (Steve Redick) Truck 45 (columind99)
+E-210,1976,American LaFrance 100’ rear mount aerial,,Truck Co. 36 (5/4/1976 - 5/20/1988),Spare truck,,,,,,,,"“Hook & Ladder Co.” markings and two-headed spotlight on driver’s side; found in junkyard in Racine, WI 9/2013; used as Truck Co. 46 (one of 3) in Backdraft",Truck 36 (Bill Friedrich) Truck 36 (columind99) Truck 36 (Gordon J. Nord) Spare truck (Smith Bros)
+E-211,1976,IHC Cargostar (tractor),,Truck Co. 41 (8/23/1976 - 1/11/1989),,,,,,,,,,Truck 41 (Midwest Fire Depts) Truck 41 (Bill Friedrich)
+E-212,1976,IHC Cargostar (tractor),,Truck Co. 14 (9/24/1976 - 1/18/1986),Truck Co. 32 (5/3/1986 - 2/6/1988),Truck Co. 54 (7/8/1988 - 3/8/1989),,,,,,,,Truck 14 (Bill Friedrich)
+E-213,1976,IHC Cargostar (tractor),,Truck Co. 42 (11/8/1976 - 5/26/1981),Truck Co. 32 (8/6/1981 - 5/3/1986),,,,,,,,,Truck 42 (columind99) Truck 42 (Bill Friedrich) Truck 32 (Bill Friedrich) Truck 32 (Bill Friedrich)
+E-214,1976,IHC Cargostar (tractor),,Truck Co. 53 (12/9/1976 - 5/4/1987),Truck Co. 32 (2/6/1988 - 9/8/1988),,,,,,,,,Truck 53 (Bill Friedrich) Truck 53 (columind99)
+E-215,1976,IHC Cargostar (tractor),,Truck Co. 1 (2/6/1977 - 6/23/1977),Truck Co. 54 (7/7/1977 - 7/8/1988),Truck Co. 32 (9/8/1988 - 11/16/1988),,,,,,,Marked as Truck 54 during Truck 1 tenure ; Tractor became transport unit for museum steamer; roof rotators replaced with red 1992-era Spartan rear beacons; sold at auction 7/20/2009,Truck 54 (Bill Friedrich) Museum transport (Smith Bros)
+E-216,1977,Seagrave 100’ rear mount,,Truck Co. 8 (4/26/1977 - 11/18/1994),Truck Co. 59 (6/15/1997 - 10/19/1997),,,,,,,,,Truck 8 (Smith Bros) Truck 8 (Bill Friedrich) Truck 8 (Bill Friedrich)
+E-217,1977,Seagrave 100’ rear mount,,Truck Co. 59 (5/5/1977 - 4/29/1996),Spare truck (4/29/1996? - at least 5/1/1999),,,,,,,,"For sale at Erickson Trucks N Parts (Racine, WI) in July 2012",Truck 59 (Bill Friedrich) Spare truck (Gordon J. Nord)
+E-218,1977,Seagrave 100’ rear mount,,Truck Co. 47 (5/5/1977 - 1/10/1989),Truck Co. 56 (5/19/1993 - 4/3/1996),Truck Co. 47 (5/3/1996 - 12/22/2000),,,,,,,Rebuilt in 1993,Truck 47 (Midwest Fire Depts) Truck 47/Engine 59 accident (chicagofd.org) Truck 56 (Bill Friedrich)
+E-219,1977,Seagrave 100’ rear mount,,Truck Co. 25 (6/21/1977 - 9/6/1995),,,,,,,,,,Truck 25 (Bill Friedrich)
+E-220,1977,Seagrave 100’ rear mount,,Truck Co. 40 (7/5/1977 - 1/8/1993),,,,,,,,,,Truck 40 (Midwest Fire Depts) Truck 40 (Bill Friedrich)
+E-221,1977,Seagrave 100’ rear mount,,Truck Co. 56 (2/22/1978 - 5/19/1993),Truck Co. 20 (4/28/1994 - 2/11/2003),Spare truck,,,,,,,Refurbished in 1993/1994; Sold at auction 2/5/2008,
+E-222,1977,Seagrave 100’ rear mount,,Truck Co. 38 (3/23/1978 - 9/9/1993),,,,,,,,,,Truck 38 (Midwest Fire Depts) Truck 38 (Bill Friedrich)
+E-223,1978,Seagrave 100’ rear mount,,Truck Co. 17 (4/7/1978 - 11/20/1991),Truck Co. 29 (8/13/1993 - at least 1996),,,,,,,,,Truck 17 (Midwest Fire Depts) Truck 17 (Bill Friedrich) Truck 29 (Bill Friedrich)
+E-224,1978,Seagrave 100’ rear mount,,Truck Co. 16 (12/20/1978 - 9/27/1993),,,,,,,,,,Truck 16 (Bill Friedrich) Truck 16 (columind99)
+E-225,1978,Seagrave 100’ rear mount,,Truck Co. 31 (12/14/1978 - 9/28/1991),Truck Co. 17 (11/20/1991 - 6/8/1996),Truck Co. 59 (10/19/1997 - 2/16/1999),,,,,,,,Truck 17 (Smith Bros)
+E-226,1978,Seagrave 100’ rear mount,,Truck Co. 62 (12/6/1978 - 11/16/1986),Truck Co. 27 (11/15/1986 - 8/19/1993),Truck Co. 8 (11/18/1994 - 3/19/2002),Spare truck,,,,,,Rebuilt 1994; as spare had no green light on front; Sold at auction 1/9/2007; Kept Truck 62 numbering until 3/10/1988?,Truck 62 (Bill Friedrich) Truck 27 (Gordon J. Nord) Truck 27 (Steve Redick) Truck 8 (Bill Friedrich) Spare truck (Gordon J. Nord)
+E-227,1978,Seagrave 100’ rear mount,,Truck Co. 60 (12/15/1978 - 8/2/2000),Truck Co. 62,Spare truck,,,,,,,In service until at least 2003,Spare truck (Smith Bros)
+E-228,1978,Seagrave 100’ rear mount,,Truck Co. 29 (11/15/1979 - 10/14/1992),,,,,,,,,,Truck 29 (Bill Friedrich)
+E-229,1978,Ford C8000/3D/Pirsch 100’ rear mount,,Truck Co. 24 (8/29/1979 - 5/9/1991),,,,,,,,,"Assembled by 3D Metals in 1979, using Pirsch 100’ aerial salvaged from E-171 (1968 Pirsch)",Truck 24 (Midwest Fire Depts) Truck 24 (Gordon J. Nord) Truck 24 (Bill Friedrich) Truck 24 (Steve Redick)
+E-230,1980,Seagrave 100’ rear mount,,Truck Co. 35 (7/23/1981 - 12/30/1993),Truck Co. 25 (9/6/1995 - ?),Spare truck,,,,,,,Rebuilt 1995; front axle removed & scrapped & sold at auction 4/24/2004,Truck 35 (Bill Friedrich) Truck 25 (Bill Friedrich) Spare truck (columind99)
+E-231,1980,Seagrave 100’ rear mount,,Truck Co. 37 (1/7/1981 - 7/5/1991),Truck Co. 62 (12/31/1992 - 6/26/2002),Spare truck,,,,,,,Rebuilt 1992; White stripe added; Sold at auction 3/4/2006,Truck 62 (Gordon J. Nord) Truck 62 (Bill Friedrich) Truck 62 (columind99)
+E-232,1980,Seagrave 100’ rear mount,,Truck Co. 20 (11/25/1980 - 4/28/1994),,,,,,,,,,
+E-233,1980,Seagrave 100’ rear mount,,Truck Co. 10 (12/9/1980 - 3/19/1986),Truck Co. 7 (5/1/1986 - 1991),Truck Co. 48 (12/30/1992 - ?),Spare truck (? - 2012),,,,,,Rebuilt 1992; white stripe added; used at Truck 48 until at least 2/13/1997; Seen at fleet as late as 11/2011; sold at auction 6/29/2012,Truck 10 (Midwest Fire Depts) Truck 7 (MIdwest Fire Depts) Truck 7 (Bill Friedrich) Truck 48 (Bill Friedrich) Spare truck (Gordon J. Nord)
+E-234,1982,Seagrave 100’ rear mount,,Truck Co. 23 (4/8/1982 - 3/27/1986),Truck Co. 44 (4/3/1986 - 4/23/1993),Truck Co. 58 (4/3/1995 - 1/8/2002),Spare truck (2002 - 2012),,,,,,"Originally had Skybolt beacons; rebuilt 1994; white stripe added; sold at auction 7/20/2012; ended up at 3033 E. 106th St., Adelman’s metal recycling",Truck 23 (mbernero) Truck 23 (Midwest Fire Depts) Truck 23 (Bill Friedrich) Truck 58 (Smith Bros) Spare truck (Gordon J. Nord)
+E-235,1982,Seagrave 100’ rear mount,,Truck Co. 26 (2/24/1982 - 5/9/1983),Truck Co. 18 (at least 10/1983),Truck Co. 18 (5/12/1995 - 2/26/2003),Spare truck (2003 - ?),,,,,,"Rebuilt & white stripe added; still in service with Mars 888, 12/30/2013",Truck 18 (Bill Friedrich) Truck 18 (post-rebuild) (Bill Friedrich)
+E-236,1982,Seagrave 100’ rear mount,,Truck Co. 30 (3/29/1982 - 12/1/1982),Truck Co. 51 (12/7/1982 - 9/2/1994),Truck Co. 17 (6/8/1996 - 12/10/2002),,,,,,,Refurbished 1995; White stripe added; Sold at auction 3/4/2006,Truck 51 (Bill Friedrich)
+E-237,1982,Seagrave 100’ rear mount,,Truck Co. 48 (3/24/1982 - 12/30/1992),Truck Co. 35 (12/30/1993 - 1/9/2002),Spare truck (2002 - 2006?),,,,,,,Rebuilt in 1993; White stripe added; sold at auction 3/4/2006,Truck 48 (Bill Friedrich) Truck 35 (Smith Bros)
+E-238,1982,Hendrickson/E-One 110’ rear mount,,Truck Co. 12 (7/2/1982 - 1/1/1992),Truck Co. 50 (5/11/1992 - 8/17/2000),Spare truck (2000? - 2012?),,,,,,,"Truck 12 OOS 1/1/1992; white stripe added (while spare?); still in service as spare 6/2011; sitting in auction yard, July 2012",Truck 12 (mbernero) Truck 12 (Bill Friedrich) Truck 50 (Bill Friedrich) Truck 50 (Smith Bros)
+E-239,1982,Hendrickson/E-One 110’ rear mount,,Truck Co. 34 (12/10/1982 - 11/2/1988),Truck Co. 54 (3/8/1989 - 12/26/1996),Truck Co. 11 (9/1999 - 8/8/2000),Truck Co. 7 (11/17/2001 - 1/24/2002),,,,,,One of these Hendrickson trucks was set on fire and destroyed in The Dark Knight,Possibly E-239 pre-markings (mbernero) Truck 34 (Bill Friedrich) Truck 54 (Midwest Fire Depts)
+E-240,1982,Hendrickson/E-One 110’ rear mount,,Truck Co. 30 (12/1/1982 - 5/22/2000),,,,,,,,,First seen 10/1982 in fire prevention parade with red bulb in Mars 888,Truck 30 (mbernero) Truck 30 (Smith Bros)
+E-241,1982,Hendrickson/E-One 110’ rear mount,,Truck Co. 11 (10/15/1982 - 7/30/1999),,,,,,,,,Had signature (3-2-1) painted on front bumper; Mars 888 also mounted on front bumper with siren (siren placement moved a couple times),Truck 11 (mbernero) Truck 11 (Bill Friedrich) Truck 11 (Gordon J. Nord) Truck 11 (Gordon J. Nord) Truck 11 (Gordon J. Nord)
+E-242,1982,Hendrickson/E-One 110’ rear mount,,Truck Co. 42 (12/8/1982 - 2002?),Spare truck (2002? - present),,,,,,,,"White stripe & slogan added; still in service, 12/30/2013; apparently still kept as spare in December 2014, by that point the oldest spare truck in the fleet",Truck 42 (Gordon J. Nord) Truck 42 (Bill Friedrich) Truck 42 (Smith Bros) Spare truck (Smith Bros)
+E-243,1982,Hendrickson/E-One 110’ rear mount,,Truck Co. 49 (12/14/1982 - 6/18/1999),,,,,,,,,,Truck 49 (Bill Friedrich)
+E-244,1982,Hendrickson/E-One 110’ rear mount,,Truck Co. 26 (5/9/1983 - 5/30/1995),,,,,,,,,,Truck 26 (Bill Friedrich) Truck 26 (Smith Bros)
+E-245,1982,Hendrickson/E-One 110’ rear mount,,Truck Co. 39,Truck Co. 28 (1/9/1986 - 5/27/1995),Truck Co. 38,Truck Co. 49 (6/18/1999 - ?),Spare truck (? - present),,,,,No white stripe added; still stored as spare in fleet yard as of 8/20/2014 (with Mars 888),Truck 39 (Bill Friedrich) Truck 28 (Gordon J. Nord) Truck 49 (Smith Bros) Spare truck (Smith Bros)
+E-246,1982,Hendrickson/E-One 110’ rear mount,,Truck Co. 61 (5/12/1983 - 6/3/2002),,,,,,,,,,Truck 61 (Bill Friedrich) Truck 61 (Gordon J. Nord) Truck 61 (Smith Bros)
+E-247,1984,Pemfab/E-One 135’ rear mount,,Truck Co. 3 (Aerial Tower 3) (1/19/1985 - 6/15/1995),,,,,,,,,Known as Aerial Tower 3 starting 3/1/1990 (as it had a pre-piped waterway - the only other being AT1); Only one ordered; destroyed in accident with a Brown’s Chicken restaurant; still at shops 2/27/1999,Truck 3 (columind99) Truck 3 (Midwest Fire Depts) Truck 3 crash (chicagofd.org)
+E-248,1985,Federal/E-One 95’ rear mount tower ladder,,Tower Ladder 39 (11/21/1985 - 9/13/1996),Tower Ladder 54 (12/26/1996 - 11/30/2005),Spare tower ladder (2005 - present),,,,,,,All 1985 towers originally had “Truck Co.” markings; multi-color skull & crossbones on side white stripe; white stripe added; has white “Tower Ladder” markings; still in service 6/3/2015,Tower Ladder 39 (Bill Friedrich) Tower Ladder 54 (Gordon J. Nord) Spare tower ladder (Smith Bros) Spare tower ladder (Karl Klotz)
+E-249,1985,Federal/E-One 95’ rear mount tower ladder,,Tower Ladder 14 (1/18/1986? - 1/28/1997?),,,,,,,,,"Unconfirmed, but likely",Tower Ladder 14 (Bill Friedrich) Tower Ladder 14 (Smith Bros)
+E-250,1985,Federal/E-One 95’ rear mount tower ladder,,Tower Ladder 21 (3/17/1986 - 5/29/2003?),Spare tower ladder (2003? - present),,,,,,,,No white stripe added; Has “Truck Co.” markings; Checkerboard front bumper (painted over by 2015); first seen as spare 1/22/2004; still in service 10/6/2015,Tower Ladder 21 (Bill Friedrich) Spare tower ladder (Smith Bros) Spare tower ladder (Bill Friedrich) Spare tower ladder (Gordon J. Nord)
+E-251,1985,Federal/E-One 95’ rear mount tower ladder,,Tower Ladder 23 (3/27/1986 - 7/18/2001),Spare tower ladder (2001? - present),,,,,,,,Forward & back slashes on front bumper; no stripe added; still in service 2/9/2016,Tower Ladder 23 (Gordon J. Nord) Spare tower ladder (Gordon J. Nord)
+E-252,1985,Federal/E-One 95’ rear mount tower ladder,,Tower Ladder 27 (3/17/1986 - 11/15/1986),Tower Ladder 62 (11/16/1986 - 12/31/1992),Tower Ladder 37 (3/17/1993 - 1/17/2003),Spare tower ladder (2003? - present),,,,,,White stripe added; Has “Truck Co.” markings; City Flag & US Flag on front bumper; still in service 5/7/2016 with Mars 888 light; siren replacement added next to right beacon by April 2016,Tower Ladder 62 (Bill Friedrich) Tower Ladder 37 (Gordon J. Nord) Spare tower ladder (Josh Boyajian) Spare tower ladder (Eric Haak)
+E-253,1985,Federal/E-One 95’ rear mount tower ladder,,Tower Ladder 10 (3/19/1986 - 10/25/1996),,,,,,,,,Used as parts for other 1985 E-Ones; had forward and back slashes on front bumper,Tower Ladder 10 (columind99) Tower Ladder 10 (Gordon J. Nord) Tower Ladder 10 (Bill Friedrich)
+E-254,1988,Federal/E-One 110’ rear mount,,Truck Co. 2 (5/19/1988 - 7/29/2002),Spare truck,,,,,,,,,Truck 2 (columind99) Spare truck (Smith Bros)
+E-255,1988,Federal/E-One 110’ rear mount,,Truck Co. 19 (5/5/1988 - 7/24/2002),Spare truck (2002 - present),,,,,,,,Still in service 7/19/2015; no stripe added,Truck 19 (Gordon J. Nord) Spare truck (Josh Boyajian) Spare truck (Gordon J. Nord)
+E-256,1988,Federal/E-One 110’ rear mount,,Truck Co. 36 (5/20/1988 - 8/7/2002),Spare truck,,,,,,,,Originally had chrome front wheels; white stripe added; still in service 11/26/2012,Truck 36 (mbernero) Truck 36 (Bill Friedrich) Truck 36 (Smith Bros)
+E-257,1988,Federal/E-One Hurricane 135’ rear mount,,Truck Co. 1 (Aerial Tower 1) (4/28/1988 - 2006),Spare truck (designated for Aerial Tower 1) (2006 - present),,,,,,,,Known as Aerial Tower 1 starting 3/1/1990; white stripe added; stuck in construction trench at Congress & Wabash on 6/15/2012; still in service 12/20/2013,Truck 1 (Midwest Fire Depts) Truck 1 (Smith Bros) Aerial Tower 1 (Gordon J. Nord) Spare Truck (Drew Gresik) Stuck (Dom Najolia)
+E-258,1985,Ford/Pirsch 100’ rear mount,,Truck Co. 4 (8/4/1988 - 1/1996),,,,,,,,,Pirsch mounted 1966 Pirsch aerial (from Mack C) on 1985 Ford chassis in 1988,Truck 4 (Gordon J. Nord) Truck 4 (Smith Bros) Truck 4 (Bill Friedrich)
+E-259,1988,Ford/Pierce rear mount,,Truck Co. 32 (11/16/1988 - 4/16/1996),,,, ,,,,,,Truck 32 (Bill Friedrich) Truck 32 (Smith Bros)
+E-260,1985,Ford/Pirsch 100’ rear mount,,Truck Co. 47 (1/10/1989 - 4/20/1996),,,,,,,,,Pirsch mounted 1966 Pirsch aerial (from Mack C) on 1985 Ford chassis in 1988,Truck 47 (Smith Bros)
+E-261,1985,Ford/Pirsch 100’ rear mount,,Truck Co. 41,Spare squad (? - at least fall/winter 2000),,,,,,,,Pirsch mounted 1966 Pirsch aerial (from Mack C) on 1985 Ford chassis in 1988; ladder removed but “Truck Co” lettering remained while spare squad,Truck 41 (Bill Friedrich) Truck 41 (columind99) Spare squad (Bill Friedrich) Spare squad (Smith Bros) Quite possibly the retired E-261 (Kyle Svoboda)
+E-262,1985,Pirsch 110’ rear mount aerial,,2 - 8 - 7A Fire Academy Truck (1/12/1989 - present),,,,,,,,,Pirsch mounted 1966 Pirsch aerial (from Mack C) on 1985 Pirsch chassis in 1988; all amber warning lights except roof beacons; still used as the spare academy truck as of 9/2014; kept at warehouse on Roosevelt Road; sometimes seen with “Truck 65” designation taped in windows,Academy Truck (Karl Klotz) Academy Truck (Smith Bros) Academy Truck (chicagofd.org)
+E-263,1988,Federal/E-One 95’ rear mount tower ladder,,Tower Ladder 63 (1988 - 1996?),Tower Ladder 63R (1996? - ?),,,,,,,,Stored outside at O’Hare burn pit as of early 2014 in poor condition; sold at auction 8/29/2014; Code 3 Collectibles model replica (as T63R),Tower Ladder 63 (Smith Bros)
+E-264,1988,Federal/E-One 95’ rear mount tower ladder,,Tower Ladder 5 (11/4/1988 - 5/28/2001),Tower Ladder 23 (2001? - 2006?),Spare tower ladder (? - present),Tower Ladder 34 (12/2015 - 3/2016),,,,,,Had black wheels near end of service as Tower Ladder 23 (2005); still in service 12/18/2015; renumbered for TL34 for funeral of Dan Capuano (and probably remained there),Tower Ladder 5 (Smith Bros) Tower Ladder 5 (Gordon J. Nord) Tower Ladder 5 (Gordon J. Nord) Tower Ladder 23 (Bill Friedrich) Spare tower ladder (Smith Bros)
+E-265,1988,Federal/E-One 95’ rear mount tower ladder,,Tower Ladder 34 (11/2/1988 - 12/5/2002),Spare tower ladder,Tower Ladder 34 (2010? - 12/2015),,,,,,,Re-assigned to Tower Ladder 34 after accident wrecked their Pierce Dash; dedicated to FF Corey Ankum; retrofitted with LED spotlights; blown engine and OOS by December 2015,Tower Ladder 34 (Bill Friedrich) Tower Ladder 34 (Gordon J. Nord) Tower Ladder 34 (Josh Boyajian) Spare tower ladder (Smith Bros)
+E-266,1993,Seagrave 100’ rear mount aerial,,Truck Co. 33 (7/15/1993 - 8/30/2002),Spare truck (2002? - present),,,,,,,,Spare by 10/19/2005; Retained Aerodynic lightbars & no LEDs or Mars 888 added to front; still in service 12/21/2015; rear beacons replaced with 2003-era Spartan (amber) and 1992-era Spartan (red),Spare truck (columind99) Spare truck (Smith Bros)
+E-267,1993,Seagrave 100’ rear mount aerial,,Truck Co. 27 (8/19/1993 - 8/2/2002),Spare truck (2002? - present),,,,,,,,"Spare by 2003; has “ALS Truck” markings on cab and “Paramedic Equipped Truck” markings on compartments; still in service with Aerodynic light bars and no LEDs or Mars888, 7/19/2015",Truck 27 (Smith Bros) Spare truck (Gordon J. Nord)
+E-268,1993,Seagrave 100’ rear mount aerial,,Truck Co. 40 (1/8/1993 - 2002),Spare truck (2002? - present),,,,,,,,"Spare by 10/19/2005; sometimes used as Truck 94 in “Chicago Fire” TV show; in service 11/23/2013, with ground ladder from E-234; still in service 6/3/2015",Truck 40 (Bill Friedrich) Truck 40 (columind99) Spare truck (Gordon J. Nord)
+E-269,1993,Seagrave 100’ rear mount aerial,,Truck Co. 57 (10/7/1993 - 2002),Truck Co. 20 (2/11/2003 - 2006?),Spare truck,,,,,,,Used as Truck 81 for “Chicago Fire” TV show; “bullet-ridden” compartment door removed from this or E-268 and put on E-274 (paint jobs didn’t match); sold at auction 8/15/2014,Truck 57 (Bill Friedrich) Truck 20 (Gordon J. Nord) Spare truck (Gordon J. Nord) Marked for TV show (Smith Bros)
+E-270,1993,Seagrave 100’ rear mount aerial,,Truck Co. 53 (10/29/1993 - 2002?),Spare truck,Truck Co. 12 (? - at least 11/23/2006),Spare truck (2006? - present),,,,,,Spare by 10/19/2005; still in service 8/20/2014,Truck 53 (Bill Friedrich) Truck 12 (Gordon J. Nord) Spare truck (Gordon J. Nord)
+E-271,1993,Seagrave 100’ rear mount aerial,,Truck Co. 15 (10/29/1993 - 6/1/2002),Spare truck,,,,,,,,Right rear accident damage; sold at auction 9/2012,Truck 15 (Bill Friedrich) Spare truck (Gordon J. Nord)
+E-272,1995,Seagrave 100’ rear mount aerial,,Truck Co. 28 (5/27/1995 - 1/30/2002),Truck Co. 18 (2/26/2003 - 8/31/2007),Truck Co. 51 (9/21/2007 - 2/2011),,,,,,,,Truck 28 (Smith Bros) Truck 18 (Gordon J. Nord) Truck 51 (Gordon J. Nord) Truck 51 (Erik Haak)
+E-273,1995,Seagrave 100’ rear mount aerial,,Truck Co. 26 (5/30/1995 - 1/29/2002),,,,,,,,,Became G-539 in 2004,Truck 26 (Gordon J. Nord) Truck 26 (Bill Friedrich)
+E-274,1995,Seagrave 100’ rear mount aerial,,Truck Co. 56 (4/3/1996 - 10/2011),Spare truck (2011 - present),,,,,,,,"Originally slated for Truck 47, but sent to Truck 56 due to door height; by 2012 serious body rust; used as Truck 81 for “Chicago Fire” TV show in season 2; still in service 4/7/2016, with apparently less body rust",Truck 17 (Smith Bros) Truck 56 (Bill Friedrich) Truck 56 (Gordon J. Nord) Spare truck (Niko Stefani)
+E-275,1996,Seagrave 100’ rear mount aerial,,Truck Co. 7 (4/16/1996 - 11/14/2001),Truck Co. 31 (6/5/2002 - 2/2011),Spare truck (2011 - present),,,,,,,Still in service with aerodynic lightbars on 1/13/2016; red/green lights below turn signals replaced with LEDs; spent several months with Truck 20 in late 2014,Truck 7 (Gordon J. Nord) Truck 31 (Gordon J. Nord)
+E-276,1996,Seagrave 100’ rear mount aerial,,Truck Co. 32 (4/16/1996 - 2002?),Truck Co. 61 (6/3/2002 - 2/2012?),Spare truck (2012 - present),,,,,,,"Still in service, with Mars 888, 1/5/2014",Truck 32 (Bill Friedrich) Truck 61 (Gordon J. Nord)
+E-277,1996,Seagrave 100’ rear mount aerial,,Truck Co. 41 (5/1/1996 - 3/14/2002),Truck Co. 62 (6/26/2002 - 2/2011),Spare truck (2/2011 - present),,,,,,,"Still in service, 3/10/2014",Truck 41 (Bill Friedrich) Truck 41 (Gordon J. Nord) Truck 62 (Gordon J. Nord)
+E-278,1996,Seagrave 100’ rear mount aerial,,Truck Co. 3 (5/24/1996 - 1/23/2002),Truck Co. 9 (5/16/2002 - 2/2011),Spare truck (2011 - present),,,,,,,"LEDs mounted next to front lights; first seen as spare 6/18/2011; still in service, with Mars 888, 11/25/2015",Truck 3 (Smith Bros) Truck 9 (Gordon J. Nord)
+E-279,1996,Seagrave 100’ rear mount aerial,,Truck Co. 59 (4/29/1996 - 6/15/1997),Truck Co. 59 (2/16/1999 - 6/2011),Spare truck (2011 - present),,,,,,,"Rig tipped over during drilling 6/15/1997 and ladder, fully extended at the time, was severely damaged; Seagrave subsequently installed new aerial ladder; still in service 6/23/2013 with Mars 888 light",Truck 59 (Gordon J. Nord) Truck 59 (Gordon J. Nord)
+E-280,1996,HME 1871/Simon/LTI 102’ rear mount tower ladder,,Tower Ladder 39 (9/13/1996 - 3/10/2016),,,,,,,,,In Memory of Captain Herbert “Herbie” Johnson,Tower Ladder 39 (before some graphic moves) (Gordon J. Nord) Tower Ladder 39 (Josh Boyajian) Changing over to new rig (Danny Nelms)
+E-281,1996,HME 1871/Simon/LTI 102’ rear mount tower ladder,,Tower Ladder 10 (9/25/1996 - 2002),Tower Ladder 37 (1/17/2003 - 3/2/2016),,,,,,,,,Tower Ladder 10 (Smith Bros) Tower Ladder 37 (Smith Bros) Tower Ladder 37 (Gordon J. Nord) Tower Ladder 37 (immediately after switching to new rig) (Josh Boyajian)
+E-282,1996?,Pierce Lance 100’ rear mount tower ladder,,Tower Ladder 63 (1996 - 3-4/2008),Tower Ladder 63R (3-4/2008 - ?),Tower Ladder 63S (? - present),,,,,,,Unconfirmed; still in service 3/14/2014; Code 3 Collectibles model replica (as T63),Tower Ladder 63 (Gordon J. Nord) Tower Ladder 63 (Smith Bros)
+E-283,1996,HME 1871/Simon/LTI 102’ rear mount tower ladder,,Tower Ladder 14 (1/28/1997 - 5/17/2002),Tower Ladder 21 (5/29/2003 - present),,,,,,,,Retrofitted with LED spotlights by July 2013; hydraulic system underwent major overhaul while at TL 21,Tower Ladder 14 (Gordon J. Nord) Tower Ladder 14 (Gordon J. Nord) Tower Ladder 21 (Josh Boyajian)
+E-284,2000,E-One Hurricane 100’ rear mount aerial,,Truck Co. 24 (7/17/2000 - 5/2014),Spare truck (5/2014? - present),,,,,,,,Still in service 6/3/2015,Truck 24 (Gordon J. Nord)
+E-285,2000,E-One Hurricane 100’ rear mount aerial,,Truck Co. 13 (7/31/2000 - 10/2011?),Spare truck,,,,,,,,First seen as spare 7/17/2012; still in service 7/19/2015,Truck 13 (Gordon J. Nord)
+E-286,2000,E-One Hurricane 100’ rear mount aerial,,Truck Co. 60 (8/2/2000 - 4/16/2008),Truck Co. 8 (4/16/2008 - present),,,,,,,,Swapped units with Truck 8 when Truck 60 became paramedic equipped,Truck 60 (Erik Haak) Truck 8 (Josh Boyajian)
+E-287,2000,E-One Hurricane 100’ rear mount aerial,,Truck Co. 55 (8/4/2000 - 12/11/2008),Truck Co. 28 (12/11/2008 - 10/11/2012),Spare truck (2012 - present),,,,,,,Swapped units with Truck 55 when Truck 28 became paramedic equipped; still in service 3/8/2016,Truck 55 (Gordon J. Nord) Truck 28 (Gordon J. Nord) Spare truck (Gordon J. Nord)
+E-288,2000,E-One Hurricane 100’ rear mount aerial,,Truck Co. 11 (8/8/2000 - 10/9/2012),Spare truck (10/9/2012 - present),,,,,,,,Still in service 7/19/2015,Truck 11 (Gordon J. Nord)
+E-289,2000,E-One Hurricane 100’ rear mount aerial,,Truck Co. 50 (8/17/2000 - 10/2011),Spare truck (10/2011 - present),,,,,,,,Still in service 8/28/2014,Truck 50 (Erik Haak) Spare truck (Smith Bros)
+E-290,2000,E-One Hurricane 100’ rear mount aerial,,Truck Co. 30 (8/31/2000 - present),,,,,,,,,,Truck 30 (Gordon J. Nord)
+E-291,2000,E-One Hurricane 100’ rear mount aerial,,Truck Co. 49 (2000 - present),,,,,,,,,,Truck 49 (Josh Boyajian)
+E-292,2000,E-One Hurricane 100’ rear mount aerial,,Truck Co. 45 (10/4/2000 - 2008),Truck Co. 40 (2008 - present),,,,,,,,"Swapped units with Truck 40 when Truck 45 became paramedic equipped; in memory of FF Walter Patmon, Jr.",Truck 45 (Karl Klotz) Truck 40 (Gordon J. Nord)
+E-293,2000,Pierce Dash 100’ rear mount aerial,,Truck Co. 47 (12/22/2000 - 5/2014),Spare truck (6/2014 - present),,,,,,,,White main ladder; first seen as spare 6/18/2014; still in service 12/6/2015 without large shop numbers on doors,Truck 47 (Josh Boyajian)
+E-294,2000,Pierce Dash 100’ rear mount aerial,,Truck Co. 52 (11/22/2000 - present),,,,,,,,,White main ladder; seen 4/28/2014 with tilt cab open and main ladder stuck extended at fire scene,Truck 52 (Gordon J. Nord)
+E-295,2000,American LaFrance Eagle/LTI 100’ rear mount,,Tower Ladder 5 (5/28/2001 - present),,,,,,,,,Only one purchased; was a demo unit that had two turret guns in basket and pump (one gun & pump removed prior to CFD use); one of only a few CFD vehicles with Federal Q siren (non-electronic); slightly different stripe pattern,Tower Ladder 5 (Gordon J. Nord) Tower Ladder 5 (Smith Bros)
+E-296,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 35 (1/9/2002 - present),,,,,,,,,First truck with LED grille lights; first truck with 4 Vector light pods per corner on cab roof (previous trucks had 3 per side),Truck 35 (Josh Boyajian)
+E-297,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 42 (2002 - 2/2012),Spare truck (? - present),,,,,,,,First seen as spare 2/11/2013; spare numbers in non-standard CFD style; still in service 12/10/2014,Truck 42 (Gordon J. Nord)
+E-298,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 58 (1/8/2002 - present),,,,,,,,,,Truck 58 (Josh Boyajian)
+E-299,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 22 (1/16/2002 - present),,,,,,,,,,Truck 22 (Josh Boyajian)
+E-300,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 44 (1/15/2002 - present),,,,,,,,,,Truck 44 (Gordon J. Nord)
+E-301,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 4 (2002 - present),,,,,,,,,,Truck 4 (Josh Boyajian)
+E-302,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 25 (2002 - present),,,,,,,,,,Truck 25 (Josh Boyajian)
+E-303,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 29 (1/25/2002 - present),,,,,,,,,,Truck 29 (Josh Boyajian)
+E-304,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 48 (1/25/2002 - present),,,,,,,,,,Truck 48 (Josh Boyajian)
+E-305,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 3 (1/23/2002 - present),,,,,,,,,Code 3 Collectibles replica,Truck 3 (Josh Boyajian)
+E-306,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 7 (1/24/2002 - present),,,,,,,,,,Truck 7 (Josh Boyajian)
+E-307,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 26 (1/29/2002 - present),,,,,,,,,,Truck 26 (Josh Boyajian)
+E-308,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 28 (1/30/2002 - 12/11//2008),Truck Co. 55 (12/11/2008 - present),,,,,,,,,Truck 28 (Gordon J. Nord) Truck 55 (Josh Boyajian)
+E-309,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 32 (2002 - present),,,,,,,,,,Truck 32 (Josh Boyajian)
+E-310,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 41 (3/14/2002 - present),,,,,,,,,,Truck 41 (Josh Boyajian)
+E-311,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 8 (3/19/2002 - 4/16/2008),Truck Co. 60 (4/16/2008 - present),,,,,,,,Swapped units with Truck 8 when Truck 60 became paramedic equipped,Truck 8 (Gordon J. Nord) Truck 60 (Josh Boyajian)
+E-312,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 16 (3/14/2002 - present),,,,,,,,,Involved in accident 8/15/2009,Truck 16 (Josh Boyajian) Truck 16 crash (chicagofd.org)
+E-313,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 38 (2/8/2002 - present),,,,,,,,,,Truck 38 (Gordon J. Nord)
+E-314,2002,Pierce Dash 100’ rear mount aerial,,2 - 8 - 7 Fire Academy Truck (6/24/2002 - present),,,,,,,,,Used in The Dark Knight; In Memory of Firefighter Steven McNamee; Code 3 Collectibles model replica,Academy Truck (Karl Klotz) Academy Truck (Smith Bros) As Gotham City Fire Department (Gordon J. Nord)
+E-315,2002,Pierce Dash 100’ rear mount tower ladder,,Tower Ladder 14 (5/17/2002 - 3/2/2016),Tower Ladder 34 (5/2/2016 - present),,,,,,,,Has “Tower Co.” markings; first seen 5/1/2016 at Fleet yard marked for TL14,Tower Ladder 14 (Josh Boyajian)
+E-316,2002,Pierce Dash 100’ rear mount tower ladder,,Tower Ladder 10 (2002 - present),,,,,,,,,Has “Tower Co.” markings,Tower Ladder 10 (Josh Boyajian)
+E-317,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 2 (7/24/2002 - present),,,,,,,,,In Memory of FF/PM Christopher Wheatley,Truck 2 (Josh Boyajian)
+E-318,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 19 (7/24/2002 - present),,,,,,,,,,Truck 19 (Josh Boyajian)
+E-319,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 27 (8/2/2002 - present),,,,,,,,,,Truck 27 (Gordon J. Nord)
+E-320,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 36 (8/7/2002 - present),,,,,,,,,,Truck 36 (Josh Boyajian)
+E-321,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 33 (8/30/2002 - present),,,,,,,,,Spent most of 2014 OOS,Truck 33 (Gordon J. Nord)
+E-322,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 15 (9/12/2002 - present),,,,,,,,,,Truck 15 (Josh Boyajian)
+E-323,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 53 (2002 - present),,,,,,,,,,Truck 53 (Josh Boyajian)
+E-324,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 57 (2002 - ?),,,,,,,,,,Truck 57 (Josh Boyajian)
+E-325,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 40 (2002 - 2008),Truck Co. 45 (2008 - present),,,,,,,,Swapped units with Truck 45 when Truck 45 became paramedic equipped,Truck 40 (Gordon J. Nord) Truck 45 (Erik Haak)
+E-326,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 6 (3/8/2004 - present),,,,,,,,,First apparatus for reorganized Truck 6,Truck 6 (Josh Boyajian)
+E-327,2002,Pierce Dash 100’ rear mount aerial,,Truck Co. 17 (12/10/2002 - present),,,,,,,,,,Truck 17 (Josh Boyajian)
+E-328,2002,Pierce Dash 100’ rear mount tower ladder,,Tower Ladder 34 (12/5/2002 - 2010?),,,,,,,,,"Has “Tower Co.” markings; Accident left main ladder unusable--kept at fleet management yard; still in fleet yard as of 8/20/2014 and being used for parts; Tower Co. 54 swapped right front door with this unit, and Truck 57 took the front driver’s side door",Tower Ladder 34 (Gordon J. Nord) Tower 54 door swap (Paco Castenada) Truck 57 door swap (Paco Castenada)
+E-329,2005,Pierce Dash 100’ rear mount tower ladder,,Tower Ladder 23 (12/3/2005 - present),,,,,,,,,Has “Tower Co.” markings,Tower Ladder 23 (Gordon J. Nord)
+E-330,2005,Pierce Dash 100’ rear mount tower ladder,,Tower Ladder 54 (12/2/2005 - present),,,,,,,,,Has “Tower Co.” markings;,Tower Ladder 54 (Josh Boyajian)
+E-331,2005,Pierce Dash 100’ rear mount aerial,,Truck Co. 51 (at least 10/4/2005 - 3/23/2007),,,,,,,,,"Destroyed in rollover crash, 3/23/2007; FF Grant killed in wreck; sold at auction 12/19/2012",Truck 51 (Gordon J. Nord)
+E-332,2006,Pierce Dash 105’ HD rear mount aerial,,Aerial Tower 1 (early 2006 - present),,,,,,,,,Pre-piped waterway & LED light bars on both sides of roof,Aerial Tower 1 (Josh Boyajian)
+E-333,2006,Pierce Dash 100’ rear mount aerial,,Truck Co. 12 (2006? - present),,,,,,,,,First truck with LED light bar (Vision SL),Truck 12 (Josh Boyajian)
+E-334,2006,Pierce Dash 100’ rear mount aerial,,Truck Co. 18 (8/31/2007 - present),,,,,,,,,,Truck 18 (Josh Boyajian)
+E-335,2006,Pierce Dash 100’ rear mount aerial,,Truck Co. 20 (? - present),,,,,,,,,,Truck 20 (Josh Boyajian)
+E-336,2010,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 51 (2/2011? - ?),Truck Co. 62 (10/2011 - present),,,,,,,,First trucks with all LED lighting; first trucks with rear-facing blue lights; originally assigned to Truck 51 but returned to Crimson for additional work and subsequently sent to Truck 62,Truck 62 (Josh Boyajian)
+E-337,2010,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 9 (2/2011 - present),,,,,,,,,,Pre-assignment (Karl Klotz) Truck 9 (Josh Boyajian)
+E-338,2010,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 31 (2/2011 - present),,,,,,,,,,Pre-assignment (Karl Klotz) Truck 31 (Erik Haak)
+E-339,2010,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 56 (10/2011 - present),,,,,,,,,,Truck 56 (Josh Boyajian)
+E-340,2010,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 59 (6/2011 - present),,,,,,,,,"Stuck in floodwater under viaduct at 79th & Kedzie, 8/22/2014",Truck 59 (Josh Boyajian)
+E-341,2010,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 51 (2/2011 - present),,,,,,,,,,Truck 51 (Gordon J. Nord)
+E-342,2010,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 13 (10/2011 - present),,,,,,,,,,Truck 13 (Josh Boyajian)
+E-343,2011,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 42 (2/2012 - present),,,,,,,,,,Truck 42 (Josh Boyajian)
+E-344,2011,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 50 (10/2011 - present),,,,,,,,,,Truck 50 (Josh Boyajian)
+E-345,2011,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 61 (2/2012? - present),,,,,,,,,,Truck 61 (Josh Boyajian)
+E-346,2011,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 57?,,,,,,,,,Truck 57 was not using this as of 12/11/2014,
+E-347,2012,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 11 (10/9/2012 - present),,,,,,,,,,Truck 11 (Josh Boyajian)
+E-348,2012,Spartan Gladiator Classic/Crimson 103’ rear mount,,Truck Co. 28 (10/11/2012 - present),,,,,,,,,,Truck 28 (Josh Boyajian)
+E-349,2012,Spartan Gladiator Classic/Crimson 103’ rear mount,,Training Academy (2-8-7A) (9/2012 - present),,,,,,,,,First seen 9/30/2012,2-8-7A (Josh Boyajian)
+E-350,2014,Spartan Gladiator 103’ rear mount,,Truck Co. 24 (5/2014 - present),,,,,,,,,Manufacturer’s completion date: 4/30/2014; first trucks with Vision SLR lights; in memory of Lt. L.C. Merrell,Truck 24 (Josh Boyajian)
+E-351,2014,Spartan Gladiator 103’ rear mount,,Truck Co. 47 (5/2014 - present),,,,,,,,,Manufacturer’s completion date: 4/30/2014,Truck 47 (Josh Boyajian)
+E-352,2016,E-One Cyclone II HP 100’ rear mount tower ladder,,Tower Ladder 14 (3/2/2016 - present),,,,,,,,,First seen marked on 2/26/2016; first fire was on 3/8/2016 at 4-11 + 1 Special & Haz-mat Level 1 at 4540 W. Haddon,Tower Ladder 14 (Josh Boyajian)
+E-353,2016,E-One Cyclone II HP 100’ rear mount tower ladder,,Tower Ladder 37 (3/2/2016 - present),,,,,,,,,First seen marked 3/2/2016,Tower Ladder 37 (Gordon J. Nord)
+E-354,2016,E-One Cyclone II HP 100’ rear mount tower ladder,,Tower Ladder 39 (3/10/2016 - present),,,,,,,,,"First seen (with one other, pre-markings) on 2/17/2016 heading into Chicago on Bishop Ford Expressway; first seen marked at Fire Academy on 2/24/2016; has “Tower Co.” markings and first apparatus with blue lights on lightbar; In Memory of Captain Herbert “Herbie” Johnson",Tower Ladder 39 (Terry Spirek)
+F-none,,LaFrance SF (ladder trailer),,Truck Co. 26 (12/1915 - 2/1918),,,,,,,,,,
+F-none,,American LaFrance SF (ladder trailer),,Truck Co. 28 (10/1915 - 1/1919),,,,,,,,,,
+F-none,,CFD SF (ladder trailer),,Truck Co. 20 (12/1916 - 5/1918),Truck Co. 19 (1918 - 6/1922),,,,,,,,Shop rebuilt,
+F-none,1884,LaFrance SF (ladder trailer),,Truck Co. 21 (10/1915 - 7/1917),,,,,,,,,,
+F-1,1904,American LaFrance 85’ (ladder trailer),,Truck Co. 1 (4/1918 - 5/14/1921),Truck Co. 2 (6/19/1928 - 10/22/1928),Truck Co. 11,Truck Co. 18 (10/1926 - 1/18/1928),Truck Co. 10 (10/22-1928 - 4/3/1937),Truck Co. 27 (5/10/1937 - 6/29/1954),,,,,
+F-2,1910,Seagrave/CFD 83’ (ladder trailer),,Truck Co. 2 (1910 - 10/10/1927),Truck Co. 19 (10/18/1927 - 3/4/1954),,,,,,,,rebuilt 1921--became SF trailer?,
+F-3,1904,Seagrave ’85 (ladder trailer),,Truck Co. 3 (1904 - 5/1925),Truck Co. 10 (5/1925 - 10/22/1928),Truck Co. 25 (10/31/1928 - 4/1/1930),Truck Co. 2,Truck Co. 28 (5/31/1938 - 11/30/1938),Truck Co. 43 (3/1/1941 - 10/4/1954),,,,Rebuilt 2/2/1915; first Seagrave aerial purchased,
+F-4,1905,Seagrave 75’ (ladder trailer),,Truck Co. 4 (1905 - 7/17/1926),Truck Co. 14 (6/1926 - 4/19/1929),,,,,,,,Rebuilt 1/6/1915; Became F-66,
+F-5,1918,CFD SF (ladder trailer),,Truck Co. 5 (1918 - 1925),,,,,,,,,,
+F-6,1919,Seagrave/CFD 84’ (ladder trailer),,Truck Co. 6 (6/1919 - 2/26/1925),Truck Co. 5 (1925 - 4/3/1937),Truck Co. 10 (4/3/1937 - 2/12/1943),Truck Co. 50 (2/6/1950 - 9/16/1954),,,,,,,
+F-7,1918,CFD SF (ladder trailer),,Truck Co. 7 (4/1918 - 10/1926),Truck Co. 39 (7/16/1927 - 10/19/1927),Truck Co. 46 (5/1/1928 - 5/26/1928),Truck Co. 33 (11/14/1929 - 12/13/1929),Truck Co. 29 (1/26/1931 - 2/14/1931),Truck Co. 27 (10/1/1935 - 12/30/1935),Truck Co. 24 (2/18/1936 - 10/31/1946),,,,
+F-8,1917,CFD SF (ladder trailer),,Truck Co. 8 (7/1917 - 10/24/1928),Truck Co. 50 (2/1/1929 - 7/5/1929),Truck Co. 48 (7/6/1929 - 3/19/1932),,,,,,,,
+F-9,1904,Seagrave 75’ (ladder trailer),,,Truck Co. 9 (4/1918 - 7/17/1926),Truck Co. 28 (11/5/1926 - 5/31/1938),Truck Co. 30 (4/6/1939 - 2/12/1947),,,,,,One of the first spring-raised aerials purchased by CFD; originally truss aerial; Rebuilt 1915 as straight beam aerial; motorized 1917,
+F-10,1904,American LaFrance 65’ (ladder trailer),,,Truck Co. 10 (9/1916 - 5/1925),Truck Co. 25 (5/1925 - 10/31/1928),Truck Co. 13 (10/31/1928 - 12/11/1942),Truck Co. 32 (1/19/1944 - 4/10/1954),,,,,,
+F-11,1921,CFD SF (ladder trailer),,Truck Co. 1 (5/14/1921 - 10/23/1928),Truck Co. 8 (10/24/1928 - 10/19/1954),Truck Co. 45 (11/6/1954 - 1/25/1956?),,,,,,,,
+F-12,1904,Seagrave 85’ (ladder trailer),,Truck Co. 31 (8/1916 - 8/1922),Truck Co. 12 (11/1921 - 1923),Truck Co. 31 (1923 - 2/18/1925),Truck Co. 15 (1924 - 2/29/1928),Truck Co. 14 (5/28/1929 - 9/11/1929),,,,,Rebuilt 2/18/1915; rebuilt & repainted 3/1927; became F-67 on 4/2/1930,
+F-13,1918,CFD SF (ladder trailer),,Truck Co. 13 (1918 - 1923),Truck Co. 27 (2/1918 - 7/22/1926),,,,,,,,*Conflict,
+F-14,1916,CFD SF (ladder trailer),,Truck Co. 12 (9/1916 - 11/1921),Truck Co. 14 (9/1917 - 1926),,,,,,,,*Conflict,
+F-15,1904,American LaFrance 65’ (ladder trailer),,Truck Co. 15 (6/1904 - 1924),Truck Co. 30 (1924 - 8/25/1936),,,,,,,,,
+F-16,1915,CFD SF (ladder trailer),,Truck Co. 16 (10/15/1915 - 9/19/1927),Truck Co. 34 (11/2/1927 - 10/24/1928),Truck Co. 33 (12/13/1929 - 12/15/1948),Truck Co. 38 (4/20/1947 - 1/17/1957),,,,,,*Conflict,
+F-17*,1916,Seagrave SF 1-piece,,Truck Co. 17 (11/1916 - 12/22/1938),,,,,,,,,Shared designation with E-17 as E&F-17; had tiller steering,
+F-18,1917,CFD SF (ladder trailer),,Truck Co. 18 (8/1917 - 10/1926),Truck Co. 24 (8/30/1927 - 7/15/1929),Truck Co. 50 (12/16/1929 - 4/22/1932),,,,,,,,
+F-19,1922,Seagrave/CFD 65’ (ladder trailer),,Truck Co. 19 (6/1922 - 10/18/1927),Truck Co. 39 (10/19/1927 - 1/25/1928),Truck Co. 44 (2/16/1928 - 1/10/1945),Truck Co. 52 (2/7/1946 - 6/7/1949),Truck Co. 45 (6/8/1949 - 11/6/1954),,,,,,
+F-20,1918,CFD SF (ladder trailer),,Truck Co. 20 (5/1918 - 11/1/1921),,,,,,,,,,
+F-21,1917,CFD SF (ladder trailer),,Truck Co. 21 (7/1917 - 11/30/1926),Truck Co. 40 (8/8/1927 - 4/22/1932),Truck Co. 27 (12/30/1935 - 5/10/1937),Truck Co. 30 (4/28/1938 - 4/6/1939),Truck Co. 40 (2/3/1942 - 9/1/1949),Truck Co. 38 (1/19/1957 - 2/27/1960),,,,,
+F-22,1919,Seagrave/CFD 75’ (ladder trailer),,,Truck Co. 22 (6/5/1921 - 12/19/1944),,Truck Co. 23 (2/23/1945 - 2/9/1946),Truck Co. 23 (3/5/1946 - 10/19/1956),,,,,,
+F-23,1918,CFD SF (ladder trailer),,,Truck Co. 23 (1919 - 10/6/1928),Truck Co. 48 (12/16/1928 - 7/6/1929),Truck Co. 41 (8/17/1932 - 5/27/1938),,,,,,,
+F-24,1917,CFD SF (ladder trailer),,Truck Co. 24 (1917 - 10/4/1926),Truck Co. 24 (? - 8/7/1927),Truck Co. 35 (9/16/1931 - 5/2/1932),Truck Co. 32 (5/12/1932 - 1/19/1944),,,,,,,
+F-25,1918,Seagrave/CFD SF (ladder trailer),,Truck Co. 25 (3/1918 - 5/1925),Truck Co. 13 (1926 - 10/31/1928),Truck Co. 34 (1/25/1930 - 4/22/1932),Truck Co. 14 (4/19/1929 - 5/28/1929),,,,,,First rig for Truck 25,
+F-26,1916,CFD SF (ladder trailer),,Truck Co. 34 (7/1917 - 10/26/1927),Truck Co. 26 (3/20/1916 - 11/3/1926),Truck Co. 46 (5/26/1928 - 10/3/1928),Truck Co. 43 (10/9/1928 - 4/22/1932),Truck Co. 30 (8/25/1936 - 4/28/1938),Truck Co. 20 (2/24/1943 - 12/28/1946),,,,First trailer to have tiller windshield installed by shops **Conflict,
+F-27,1917,CFD SF (ladder trailer),,Truck Co. 27 (2/1918 - 1923),Truck Co. 30 (2/1918 - 1924),,,,,,,,*Conflict,
+F-28,1918,CFD SF (ladder trailer),,Truck Co. 28 (1/1919 - 11/5/1926),Truck Co. 43 (3/16/1928 - 10/9/1928),Truck Co. 34 (10/24/1928 - 1/25/1930),,,,,,,,
+F-29,1917,Seagrave SF (ladder trailer),,Truck Co. 29 (1917 - 1/26/1931),Truck Co. 41 (1/26/1931 - 8/17/1932),,Truck Co. 41 (5/27/1938 - 3/17/1943),,,,,,,
+F-30,1916,CFD SF (ladder trailer),,Truck Co. 22 (10/16/1916 - 6/5/1921),Truck Co. 20 (1924 - 1924),,,,,,,,,
+F-31,1922,Seagrave/CFD 65’ (ladder trailer),,Truck Co. 31 (8/1922 - 1923),Truck Co. 12 (1923 - 11/1926),Truck Co. 26 (11/3/1926 - 2/14/1931),Truck Co. 29 (2/14/1931 - 12/8/1949),Truck Co. 54 (3/16/1950 - 8/31/1963),Truck Co. 56 (7/16/1965 - 12/2/1966),Truck Co. 33 (7/27/1967 - 11/15/1968),,,"Aerial ladder condemned & bolted in place while at Truck 56, creating a SF trailer, and the last company Truck Company to have no aerial-ladder capabilities; this must have been repaired before assignment to T33",
+F-32,1919,CFD SF (ladder trailer),,Truck Co. 32 (5/20/1919 - 2/12/1928),Truck Co. 45 (5/16/1928 - 7/15/1929),Truck Co. 24 (7/15/1929 - 2/12/1936),,,,,,,,
+F-33,1920,CFD SF (ladder trailer),,Truck Co. 33 (4/13/1920 - 11/14/1929),Truck Co. 27 (8/30/1930 - 4/22/1932),Truck Co. 35 (5/2/1932 - 11/16/1949),Truck Co. 32 (4/10/1954 - 7/28/1954),,,,,,,
+F-34,1917,CFD SF (ladder trailer),,Truck Co. 26 (2/1918 - 11/3/1926),Truck Co. 20 (6/1925 - 2/24/1943),,,,,,,,,
+F-35,1917,CFD SF (ladder trailer),,Truck Co. 35 (7/9/1919 - 9/16/1931),Truck Co. 48 (3/19/1932 - 10/15/1949),,,,,,,,,
+F-36,1917,CFD SF (ladder trailer),,,Truck Co. 36 (10/16/1919 - 1/24/1945),Truck Co. 33 (12/15/1948 - 9/17/1954),Truck Co. 34 (10/15/1958 - 12/24/1959),Truck Co. 45 (1/18/1963 - 6/14/1963),Truck Co. 54 (8/31/1963 - 7/26/1966),,,,Last Straight Frame trailer in service (no aerial ladder),
+F-37,1904,Seagrave/CFD 75’ (ladder trailer),,Truck Co. 6 (1906 - 6/1919),Truck Co. 37 (1/1/1919 - 2/4/1931),Truck Co. 42 (9/28/1931 - 6/27/1951),,,,,,,rebuilt 1915,
+F-38,,,,,,,,,,,,,,
+F-39,1917,CFD SF (ladder trailer),,,Truck Co. 13 (1923 - 1926),,,,,,,,,
+F-40,1925,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 31 (2/18/1925 - 11/17/1928),,Truck Co. 56 (12/27/1959 - 7/6/1964),,,,,,,"Aerial condemned & bolted down while at Truck 56, essentially creating a SF trailer",
+F-41,1925,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 6 (2/26/1925 - 11/17/1928),Truck Co. 31 (11/17/1928 - 4/13/1934),Truck Co. 47 (4/13/1934 - 11/19/1934),Truck Co. 31 (11/19/1934 - 1/26/1943),Truck Co. 10 (2/12/1943 - 12/20/1946,Truck Co. 30 (2/12/1947 - 3/22/1950),,,,,
+F-42,1890,Babcock 77’ (ladder trailer),,Truck Co. 7 (1915 - 4/1918),,,,,,,,,,
+F-43,1917,CFD SF (ladder trailer),,,Truck Co. 27 (7/22/1926 - 8/30/1930),,,,,,,,,
+F-44,1916,CFD SF (ladder trailer),,,,,Truck Co. 34 (10/1/1935 - 7/16/1954),,,,,,,
+F-45,1925,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 3 (5/1925 - 5/13/1942),,,,,,,,,,
+F-46,1926,CFD SF (ladder trailer),,Truck Co. 4 (7/17/1926 - 4/14/1934),Truck Co. 51 (4/14/1934 - 11/19/1934),Truck Co. 4 (11/19/1934 - 8/10/1936),Truck Co. 25 (12/3/1942 - 8/24/1949),Truck Co. 48 (1/30/1950 - 2/1/1956),,,,,Later became Seagrave/CFD 85’ on second go-around at Truck 4?,
+F-47*,1916,Seagrave SF 1-piece,,Truck Co. 11 (1916 - 1921),Truck Co. 20 (11/1/1921 - 6/4/1925),Truck Co. 38 (9/16/1925 - 4/20/1947),,,,,,,"One piece ladder unit, shared designation as E&F 47",
+F-48,1926,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 9 (7/17/1926 - 2/1956)),,,,,,,,,,
+F-49,1926,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 7 (10/1926 - 3/10/1949),Truck Co. 35 (4/5/1954 - 6/15/1955),,,,,,,,,
+F-50,1926,CFD SF (ladder trailer),,Truck Co. 11,Truck Co. 29 (9/12/1956 - 6/6/1959),Truck Co. 57 (8/12/1962 - 12/13/1968?),,,,,,,Later became Seagrave/CFD 85’?,
+F-51,1926,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 12 (11/1926 - 9/26/1949),,,,,,,,,,
+F-52,1926,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 21 (11/30/1926 - 10/12/1954),Truck Co. 45 (9/12/1956 - 1/18/1963?),Truck Co. 45 (6/14/1963 - 1/10/1969),,,,,,,,
+F-53,1927,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 16 (9/19/1927 - 11/5/1954),Truck Co. 52 (1/2/1964 - 7/13/1967),,,,,,,,,
+F-54,1927,Seagrave/RS 82’ (ladder trailer),,Truck Co. 18 (7/5/1928 - 2/14/1956),Truck Co. 2 (10/10/1927 - 6/19/1928),,,,,,,,,
+F-55,1927,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 42 (1/1/1928 - 9/28/1931),Truck Co. 26 (10/3/1931 - 11/4/1954),,,,,,,,,
+F-56,1927,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 41 (1/1/1928 - 1/26/1931),Truck Co. 37 (2/4/1931 - 9/12/1949),Truck Co. 37 (10/19/1949 - 6/7/1956),Truck Co. 37 (12/18-1959 - ?),,,,,,Aerial ladder cut off on 3/4/1959,
+F-57,1927,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 39 (1/25/1928 - 12/29/1944),,Truck Co. 36 (1/24/1945 - 12/4/1967),,,,,,,,
+F-58,1927,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 15 (3/1/1928 - 10/19/1954),,Truck Co. 24 (9/12/1956 - 10/17/1968),,,,,,,Damaged in Union Stockyards fire 5/19/1934 & rebuilt by shops,
+F-59,,,,,,,,,,,,,,
+F-60,1928,CFD SF (ladder trailer),,Truck Co. 32 (6/27/1928 - 5/12/1932),,,,,,,,,,
+F-61,1928,Seagrave 82’ (ladder trailer),,Truck Co. 2 (10/22/1928 - 9/29/1944),Truck Co. 22 (12/19/1944 - 8/18/1949),Truck Co. 29 (10/27/1949 - 12/22/1955),,,,,,,,
+F-62,1928,Seagrave 85’ (ladder trailer),,Truck Co. 1 (10/23/1928 - 1/15/1943),Truck Co. 44 (1/10/1945 - 8/29/1949),Truck Co. 31 (1/26/1943 - 12/12/1944),Truck Co. 46 (8/7/1951 - 9/15/1954),Truck Co. 52 (11/9/1954 - 1/2/1964),,,,,,
+F-63,1928,Seagrave 83’ (ladder trailer),,Truck Co. 6 (11/17/1928 - 5/14/1942),Truck Co. 14 (6/3/1942 - 10/18/1949),Truck Co. 43 (12/6/1954 - 11/16/1968),,,,,,,,
+F-64,1928,Seagrave 85’ (ladder trailer),,Truck Co. 47 (12/1/1928 - 4/13/1934),Truck Co. 31 (4/13/1934 - 11/19/1934),Truck Co. 47 (11/19/1934 - 3/8/1956),,Truck Co. 23 (11/2/1956 - 10/3/1967),,,,,Truck Co. 47’s rig loaned to Truck 31 for Century of Progress in 1934,
+F-65,1929,Seagrave 83’ (ladder trailer),,Truck Co. 51 (12/16/1929 - 4/14/1934),Truck Co. 4 (4/14/1934 - 11/19/1934),Truck Co. 51 (11/19/1934 - 11/9/1949),Truck Co. 42 (6/27/1951 - 11/13/1968),,,,,,,
+F-66,1929,Seagrave/CFD 82’ (ladder trailer),,Truck Co. 14 (9/11/1929 - 5/27/1942),Truck Co. 13 (12/11/1942 - 10/3/1949),Truck Co. 35 (11/16/1949 - 4/5/1954),,,,,,,Rebuilt from F-4 (1905),
+F-67,1930,Seagrave/CFD 75’ (ladder trailer),,Truck Co. 25 (4/2/1930 - 12/3/1942),Truck Co. 41 (3/17/1943 - 9/28/1954),,,,,,,,"Rebuilt from F-12, originally a 1904 Seagrave; first rebuild: 2/8/1915; second rebuild: 4/2/1930 (when it became F-67)",
+F-68*,1928,Seagrave CS 1-piece,,Truck Co. 46 (10/3/28 - 8/7/1951),,,,,,,,,"One piece ladder unit, shared designation as E&F 68",
+F-69*,1928,Seagrave,,Truck Co. 23 (12/6/1928 - 2/23/1945),,Truck Co. 23 (2/9/1946 - 3/2/1946),Truck Co. 24 (10/31/1946 - 5/25/1955),,,,,,"One piece ladder unit, shared designation as E&F 69",
+F-70,1936,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 4 (8/10/1936 - 10/14/1949),,Truck Co. 30 (3/22/1950 - 5/24/1956),,,,,,,,
+F-71,1936,Seagrave/CFD 85’ (ladder trailer),,Truck Co. 5 (4/3/1937 - 11/19/1946),Truck Co. 20 (12/28/1946 - 7/9/1954),Truck Co. 35 (6/15/1955 - 10/11/1957),Truck Co. 29 (6/6/1959 - 1/2/1968),,,,,,,
+F-72,1938,American LaFrance/CFD ’85 (ladder trailer),,Truck Co. 28 (11/30/1938 - 6/14/1957),Truck Co. 35 (10/11/1957 - 4/16/1970),,,,,,,,,
+F-73,1938,American LaFrance/CFD ’85 (ladder trailer),,Truck Co. 17 (12/22/1938 - 1/19/1967),Truck Co. 36 (12/4/1967 - 5/18/1970),,,,,,,,,
+F-74*,1929,Seagrave,,Truck Co. 50 (7/5/1929 - 3/22/1946),Truck Co. 52 (6/7/1949 - 11/5/1949),Truck Co. 56 (2/1/1954 - 12/27/1959),,,,,,,"One piece ladder unit, shared designation as E&F 74",
+F-75*,1929,Seagrave,,Truck Co. 45 (7/15/1929 - 4/22/1932),Truck Co. 52 (4/22/1932 - 2/7/1946),Truck Co. 50 (3/22/1946 - 10/20/1949),Truck Co. 55 (3/1/1950 - 5/20/1959),,,,,,"One piece ladder unit, shared designation as E&F 75",
+F-76,,,,,,,,,,,,,,
+F-77,,,,,,,,,,,,,,
+F-78,,,,,,,,,,,,,,
+F-79,,,,,,,,,,,,,,
+F-80,,,,,,,,,,,,,,
+F-81,,,,,,,,,,,,,,
+F-82,,,,,,,,,,,,,,
+F-83,,,,,,,,,,,,,,
+F-84,1942,American LaFrance 100’ (ladder trailer),,Truck Co. 6 (5/14/1942 - 8/1/1963),,,Truck Co. 31 (8/1/1963 - ?),Truck Co. 35 (4/16/1970 - 12/9/1972),,,,,,
+F-85,1942,American LaFrance 100’ (ladder trailer),,Truck Co. 3 (5/13/1942 - 12/5/1942),Truck Co. 1 (1/15/1943 - 2/13/1967),,,,,,,,,
+F-86,1942,Pirsch 100’ (ladder trailer),,Truck Co. 3 (12/5/1942 - 10/5/1959),Truck Co. 44 (1/29/1960 - 5/6/1966),Truck Co. 5 (8/5/1966 - 12/16/1966),Truck Co. 1 (2/13/1967 - 2/17/1967),Truck Co. 1 (9/15/1967 - 4/16/1968),Truck Co. 34 (7/1/1968 - 9/3/1970),Truck Co. 42 (6/16/1971 - 11/8/1976),Truck Co. 62 (12/17/1976 - 12/6/1978),Truck Co. 24 (1/18/1979 - 8/29/1979),,
+F-87,,,,,,,,,,,,,,
+F-88,,,,,,,,,,,,,,
+F-89,,,,,,,,,,,,,,
+F-90,,,,,,,,,,,,,,
+F-91,,,,,,,,,,,,,,
+F-92,,,,,,,,,,,,,,
+F-93,,,,,,,,,,,,,,
+F-94,,,,,,,,,,,,,,
+F-95,,,,,,,,,,,,,,
+F-96,,,,,,,,,,,,,,
+F-97,1944,Pirsch 85’ (ladder trailer),,Truck Co. 2 (9/29/1944 - 5/28/1954),,Truck Co. 28 (6/14/1957 - 3/30/1970),,,,,,,,
+F-98,1944,Pirsch 85’ (ladder trailer),,Truck Co. 31 (12/12/1944 - 8/1/1963),Truck Co. 15 (5/27/1964 - 10/3/1967),Truck Co. 16 (11/16/1968 - 1/3/1969),Truck Co. 29 (1/2/1968 - 6/20/1972),Truck Co. 58 (6/30/1972 - 2/12/1975),,,,,*Conflict,
+F-99,1944,Pirsch 85’ (ladder trailer),,Truck Co. 39 (12/29/1944 - 2/25/1960),Truck Co. 38 (2/27/1960 - ?),Truck Co. 56 (7/6/1964 - 7/16/1965),Truck Co. 38 (8/17/1965? - 12/8/1972),Truck Co. 35 (12/9/1972 - 1/3/1973),,,,,A traffic accident plus fires reduced this rig to 70’ by time at Truck 38,
+F-100,,,,,,,,,,,,,,
+F-101,,,,,,,,,,,,,,
+F-102,,,,,,,,,,,,,,
+F-103,,,,,,,,,,,,,,
+F-104,,,,,,,,,,,,,,
+F-105,,,,,,,,,,,,,,
+F-106,,,,,,,,,,,,,,
+F-107,1946,Pirsch 85’ (ladder trailer),,Truck Co. 5 (11/19/1946 - 7/30/1959),Truck Co. 34 (12/24/1959 - 7/1/1968),Truck Co. 12 (7/11/1968 - 1/11/1970),,Truck Co. 47 9/29/1971 - 3/18/1973),,,,,,
+F-108,1946,Pirsch 85’ (ladder trailer),,Truck Co. 10 (12/20/1946 - 6/12/1954),Truck Co. 48 (2/1/1956 - 11/2/1966),Truck Co. 1 (2/17/1967 - 9/15/1967),Truck Co. 15 (10/3/1967 - 11/16/1968),Truck Co. 19 (7/18/1969 - 5/25/1970),Truck Co. 47 (9/4/1970 - 9/29/1971),,,,,
+F-109,1949,Pirsch 85’ (ladder trailer),,Truck Co. 22 (8/18/1949 - 12/13/1968),Truck Co. 57 (12/13/1968 - 3/4/1972),,,,,,,,,
+F-110,1949,FWD 85’ (ladder trailer),,Truck Co. 25 (8/24/1949 - 3/14/1974),Truck Co. 50 (9/20/1975 - 2/19/1976),,,,,,,,,
+F-111,1949,FWD 85’ (ladder trailer),,Truck Co. 44 (8/29/1949 - 1/29/1960),Truck Co. 54 (8/5/1966 - 3/22/1967),Truck Co. 52 (7/13/1967 - 4/10/1975),,,,,,,New wooden aerial ladder installed summer 1967,
+F-112,1949,FWD 85’ (ladder trailer),,Truck Co. 40 (9/1/1949 - 1/5/1967),,,,,,,,,,
+F-113,1949,FWD 85’ (ladder trailer),,Truck Co. 37 (9/12/1949 - 10/19/1949),Truck Co. 51 (11/9/1949 - 5/22/1970),Truck Co. 13 (6/29/1970 - 11/5/1975),,,,,,,Truck 13 also used F-116 again during period with F-113,
+F-114,1949,FWD 85’ (ladder trailer),,Truck Co. 11,Truck Co. 59 (4/2/1957 - 3/12/1970),Truck Co. 28 (3/30/1970 - 6/5/1970),,,,,,,,
+F-115,1949,FWD 85’ (ladder trailer),,Truck Co. 12 (9/26/1949 - 10/17/1967),Truck Col. 42 (11/15/1968 - 6/16/1971),,,,,,,,,
+F-116,1949,FWD 85’ (ladder trailer),,Truck Co. 13 (10/3/1949 - 6/29/1970),Truck Co. 29 (4/11/1973 - 7/23/1973),Truck Co. 37 (9/13/1972 - 3/9/1973),,,,,,,,
+F-117,1949,FWD 85’ (ladder trailer),,Truck Co. 7 (9/30/1949 - 9/11/1970),Truck Co. 23 (9/12/1970 - 3/28/1973),Truck Co. 57 (6/5/1973 - 6/12/1975),,,,,,,,
+F-118,1949,FWD 85’ (ladder trailer),,Truck Co. 4 (10/14/1949 - 1/28/1967),,Truck Co. 24 (10/17/1968 - 6/7/1972),,Truck Co. 24 (11/12/1974 - 11/6/1975),,,,,,
+F-119,1949,FWD 85’ (ladder trailer),,Truck Co. 14 (10/18/1949 - 4/3/1970),,,,,,,,,,
+F-120,1949,FWD 85’ (ladder trailer),,Truck Co. 50 (10/20/1949 - 3/8/1972),,,,,,,,,,
+F-121,,,,,,,,,,,,,,
+F-122,,,,,,,,,,,,,,
+F-123,1954,Pirsch 85’ (ladder trailer),,Truck Co. 2 (5/28/1954 - 11/16/1968),Truck Co. 15 (11/16/1968 - 1/10/1969),Truck Co. 14 (9/11/1970 - 9/24/1976),Truck Co. 35 (3/13/1974 - 7/8/1974),,,,,,*Conflict,
+F-124,1954,Pirsch 85’ (ladder trailer),,Truck Co. 10 (6/12/1954 - 7/28/1959),Truck Co. 5 (7/30/1959 - 6/3/1966),Truck Co. 46 (3/11/1968 - 7/19/1970),Truck Co. 44 (5/6/1966 - 10/17/1967),Truck Co. 41 (5/2/1972 - 8/23/1976),,,,,,
+F-125,1954,Pirsch 85’ (ladder trailer),,Truck Co. 27 (6/29/1954 - 3/21/1975),,,,,,,,,,
+F-126,1954,Pirsch 85’ (ladder trailer),,Truck Co. 20 (7/9/1954 - 5/27/1970),,,Truck Co. 35 (1/3/1973 - 3/13/1974),,,,,,Alternately listed as 12/9/1972 for Truck 35 start date,
+F-127,,,,,,,,,,,,,,
+F-128,1954,Pirsch 85’ (ladder trailer),,Truck Co. 34 (7/16/1954 - 10/15/1958),Truck Co. 11 (7/17/1959 - 1/30/1970),Truck Co. 19 (1/25/1971 - 3/4/1972),Truck Co. 24 (11/6/1975 - 1/18/1979),,,,,,Aerial ladder replaced with 100’ Pirsch aluminum model in 1959 after wooden aerial destroyed in accident 10/1958,
+F-129,,,,,,,,,,,,,,
+F-130,1954,FWD 85’ (ladder trailer),,Truck Co. 46 (9/15/1954 - 7/10/1967),,Truck Co. 23 (10/3/1967 - 9/12/1970),,,,,,,,
+F-131,,,,,,,,,,,,,,
+F-132,1954,FWD 85’ (ladder trailer),,Truck Co. 33 (9/17/1954 - 7/27/1967),Truck Co. 33 (11/15/1968 - 5/29/1975),,,,,,,,,Truck 33 (Steve Redick)
+F-133,1954,FWD 85’ (ladder trailer),,Truck Co. 41 (9/28/1954 - 5/2/1972),,Truck Co. 24 (6/9/1972 - 11/12/1974),Truck Co. 54 (9/20/1973 - 1/30/1975),,,,,,*Conflict,
+F-134,1954,FWD 85’ (ladder trailer),,Truck Co. 21 (10/12/1954 - 9/28/1969),Truck Co. 54 (10/7/1969 - 5/18/1970),,,,,,,,,
+F-135,1954,FWD 85’ (ladder trailer),,Truck Co. 32 (9/30/1954 - 7/27/1970),Truck Co. 14 (4/3/1970 - 9/11/1970),,,,,,,,*Conflict,
+F-136,1954,FWD 85’ (ladder trailer),,Truck Co. 19 (10/8/1954 - 7/6/1962),Truck Co. 9 (9/3/1963 - 7/14/1967),Truck Co. 48 (7/24/1967 - 3/16/1970),Truck Co. 32 (3/27/1970 - 8/4/1980),,,,,,Aerial ladder replaced with F-156 in 1963,
+F-137,1954,FWD 85’ (ladder trailer),,Truck Co. 26 (11/4/1954 - 8/12/1965),Truck Co. 26 (12/14/1965 - 9/1/1967),Truck Co. 54 (10/17/1967 - 10/7/1969),Truck Co. 26 (10/7/1969 - 4/13/1970),Truck Co. 54 (5/22/1970 - 8/28/1973),,,,,Accident in 1960 reduced this ladder to 74’,
+F-138,1954,FWD 85’ (ladder trailer),,Truck Co. 8 (10/19/1954 - 9/28/1969),Truck Co. 21 (9/28/1969 - 7/7/1970),Truck Co. 57 (4/11/1972 - 6/5/1973),,,,,,,,
+F-139,1954,FWD 85’ (ladder trailer),,Truck Co. 15 (10/19/1954 - 3/18/1964),Truck Co. 62 (7/9/1964 - ?),Truck Co. 39 (5/24/1969? - 6/16/1969),,,,,,,,
+F-140,1954,FWD 85’ (ladder trailer),,Truck Co. 16 (11/5/1954 - 11/16/1968),Truck Co. 43 (11/16/1968 - 9/8/1971),Truck Co. 61 (3/2/1972 - 4/26/1972),Truck Co. 50 (4/28/1972 - 2/27/1973),,,,,,,
+F-141,1954,FWD 85’ (ladder trailer),,Truck Co. 57 (1/18/1955 - 5/22/1962),Truck Co. 19 (7/6/1962 - 11/16/1962),,,,,,,,,
+F-142,,,,,,,,,,,,,,
+F-143,1956,FWD 85’ (ladder trailer),,Truck Co. 37 (6/7/1956 - 12/18/1959),Truck Co. 60 (12/20/1959 - 2/7/1975),,,,,,,,,
+F-144,1956,FWD 85’ (ladder trailer),,Truck Co. 18 (2/14/1956 - 9/17/1970),Truck Co. 37 (1/21/1971 - 11/6/1971),,,,,,,,,
+F-145,1956,FWD 85’ (ladder trailer),,Truck Co. 9 (2/16/1956 - 9/3/1963),Truck Co. 37 (9/4/1963 - 12/20/1963),Truck Co. 37 (3/27/1967 - 10/14/1968),Truck Co. 37 (11/12/1968 - 12/17/1969),Truck Co. 61 (11/16/1970 - 2/21/1974),,,,,,
+F-146,1956,FWD 85’ (ladder trailer),,Truck Co. 47 (3/8/1956 - 9/4/1970),Truck Co. 50 (2/27/1973 - 8/25/1974),,,,,,,,,
+F-147,1956,FWD 85’ (ladder trailer),,Truck Co. 30 (5/24/1956 - 2/24/1970),Truck Co. 61 (8/29/1961 - 3/2/1972),,,,,,,,*Conflict,
+F-148,1956,FWD 85’ (ladder trailer),,Truck Co. 56 (5/16/1956 - 6/30/1972),Truck Co. 29 (6/30/1972 - 4/6/1973),Truck Co. 35 (7/8/1974 - 7/15/1976),,,,,,,,
+F-149,1956,FWD 85’ (ladder trailer),,Truck Co. 11 (? - 7/17/1959),Truck Co. 55 (7/31/1959 - 6/1975),,,,,,,,,
+F-150*,1959,Mack B/Magirus 100’ rear mount,,Truck Co. 10 (7/28/1959 - 1/5/1969),Truck Co. 45 (1/10/1969 - 5/21/1976),Truck Co. 8 (6/3/1976 - 4/26/1977),Truck Co. 59 (4/27/1977 - 5/5/1977),,,,,,"One piece ladder unit, shared designation as E&F-150",
+F-151*,1959,Mack B/Magirus 100’ rear mount,,Truck Co. 3 (10/5/1959 - 2/23/1960),Truck Co. 39 (2/25/1960 - 4/29/1960),Truck Co. 30 (11/2/1960 - 2/24/1970),Truck Co. 59 (3/12/1970 - 4/27/1977),,,,,,"One piece ladder unit, shared designation as E&F-151",
+F-152*,1959,Mack B/Magirus 144’ rear mount,,Truck Co. 3 (2/23/1960 - 5/24/1969),Truck Co. 8 (9/28/1969 - 6/3/1976),,,,,,,,"One piece ladder unit, shared designation as E&F-152",
+F-153*,1959,Mack B/Magirus 144’ rear mount,,Truck Co. 39 (4/29/1960 - 5/24/1969?),Truck Co. 3 (5/24/1969 - 1/15/1970),Truck Co. 2 (1/28/1970 - 1/20/1975),,,,,,,"One piece ladder unit, shared designation as E&F-153",
+F-154,,,,Truck Co. 37 (12/20/1963 - 6/9/1965),Truck Co. 35 (7/12/1966 - 4/16/1970),Truck Co. 25 (7/24/1970 - 3/14/1974),Truck Co. 54 (1/30/1975 - 7/7/1977),,,,,,,
+F-155,,,,Truck Co. 15 (4/1960 - 8/1/1963),Truck Co. 54 (8/31/1963 - 2/11/1964),Truck Co. 26 (4/17/1967 - 9/1/1967),Truck Co. 12 (9/6/1967 - 1/23/1968),Truck Co. 24 (8/21/1973 - 11/12/1974),,,,,,
+F-156,1963,Seagrave 100’ aerial only,,Truck Co. 48,Truck Co. 9 (9/3/1963 - 7/14/1967),,,,,,,,Mounted on trailer F-136,
+F-157*,1966,Mack C/Pirsch 100’ mid mount,,Truck Co. 56 (12/2/1966 - 2/22/1978),,,,,,,,,"One piece ladder unit, shared designation as E&F-157",
+F-158*,1966,Mack C/Pirsch 100’ mid mount,,Truck Co. 4 (1/28/1967 - 2/18/1974),Truck Co. 25 (3/14/1974 - 5/25/1977),,,,,,,,"One piece ladder unit, shared designation as E&F-158",
+F-159*,1966,Mack C/Pirsch 100’ mid mount,,Truck Co. 17 (1/19/1967 - 4/7/1978),,,,,,,,,"One piece ladder unit, shared designation as E&F-159",
+F-160*,1966,Mack C/Pirsch 100’ mid mount,,Truck Co. 5 (12/16/1966 - 10/27/1972),Truck Co. 38 (12/8/1972 - 3/23/1978),Truck Co. 34 (4/26/1981 - ?),,,,,,,"One piece ladder unit, shared designation as E&F-160",
+F-161*,1966,Mack C/Pirsch 100’ mid mount,,Truck Co. 40 (1/5/1967 - 7/5/1977),,,,,,,,,"One piece ladder unit, shared designation as E&F-161",
+F-162*,1966?,Mack C/Pirsch 100’ mid mount?,,,,,,,,,,,"One piece ladder unit, shared designation as E&F-162",
+F-163,,,,Truck Co. 29,Truck Co. 58 (6/30/1972 - 2/12/1975),Truck Co. 19 (3/13/1975 - 10/24/1975),Truck Co. 24 (11/6/1975 - 1/18/1979),,,,,,,
+F-164,,,,Truck Co. 42 (6/16/1971 - 11/8/1976),Truck Co. 62 (12/17/1976 - 12/6/1978),Truck Co. 24 (1/18/1979 - 8/29/1979),,,,,,,,
+F-165,,,,Truck Co. 48 (10/17/1968 - 3/16/1970),Truck Co. 32 (3/27/1970 - 8/4/1980),,,,,,,,,
+F-166*,1967,Seagrave 100’ mid-mount aerial,,Truck Co. 26 (9/1/1967 - 10/7/1969),Truck Co. 31 (3/9/1970 - 12/14/1978),Truck Co. 46 (4/30/1971 - 11/16/1971),Reserve Truck RT7,,,,,,"One piece ladder unit, shared designation as E&F-166",
+F-167*,1967,Seagrave 100’ rear-mount aerial “Rear Admiral”,,Truck Co. 9,Truck Co. 11 (1/30/1970 - 4/24/1970),Truck Co. 36 (5/18/1970 - 5/4/1976),Truck Co. 35 (7/15/1976 - 7/3/1979),Truck Co. 2,,,,,"One piece ladder unit, shared designation as E&F-167",
+F-168*,1967,Seagrave 100’ mid-mount aerial,,Truck Co. 44 (10/17/1967 - 1/20/1975),Truck Co. 60 (2/7/1975 - 12/15/1978),,,,,,,,"One piece ladder unit, shared designation as E&F-168",
+F-169*,1968,Seagrave 100’ rear-mount aerial “Rear Admiral”,,Truck Co. 1 (4/16/1968 - 3/22/1973),Truck Co. 29 (7/23/1973 - 12/16/1978),Truck Co. 32 (8/4/1980 - 2/14/1981),,,,,,,"One piece ladder unit, shared designation as E&F-169",
+F-170*,1968,Mack CF/Pirsch 100’ rear mount,,Truck Co. 22 (12/13/1968 - 1/30/1973),Truck Co. 47 (7/2/1973 - 5/5/1977),Truck Co. 16 (5/20/1977 - 12/20/1978),Truck Co. 35 (7/3/1979 - 7/23/1981),Truck Co. 34,,,,,1-piece truck,
+F-171*,1968,Mack CF/Pirsch 100’ rear mount,,Truck Co. 16 (1/3/1969 - 2/1/1977),,,,,,,,,"One piece ladder unit, shared designation as E&F-171; Pirsch 100’ aerial later salvaged and later beceme F-229",
+F-172*,1968,Mack CF/Pirsch 100’ rear mount,,Truck Co. 15 (1/10/1969 - 1/19/1973),Truck Co. 37 (3/9/1973 - 12/19/1980),Truck Co. 32,Truck Co. 42 (5/26/1981 - 12/8/1982),,,,,,"One piece ladder unit, shared designation as E&F-172",
+F-173*,1968,Seagrave 100’ rear-mount aerial “Rear Admiral”,,Truck Co. 63,,,,,,,,,"One piece ladder unit, shared designation as E&F-173",
+F-174*,1969,Seagrave 100’ rear mount aerial,,Truck Co. 3 (1/15/1970 - 2/28/1973),Truck Co. 23 (3/28/1973 - 4/8/1982),,,,,,,,"One piece ladder unit, shared designation as E&F-174",
+F-175*,1969,Seagrave 100’ rear mount aerial,,Truck Co. 30 (2/24/1970 - 3/29/1982),,,,,,,,,"One piece ladder unit, shared designation as E&F-175",
+F-176*,1970,Seagrave 100’ rear mount aerial,,Truck Co. 48 (3/16/1970 - 3/24/1982),Truck Co. 7 (7/18/1991 - 4/16/1996),Truck Co. 4 (5/1996 - 1/11/2001),Truck Co. 44 (1/10/2002 - 1/15/2002),,,,,,"One piece ladder unit, shared designation as E&F-176",
+F-177*,1970,Seagrave 100’ rear mount aerial,,Truck Co.  26 (4/13/1970 - 3/24/1982),,,,,,,,,"One piece ladder unit, shared designation as E&F-177",
+F-178*,1970,Seagrave 100’ rear mount aerial,,Truck Co. 11 (4/24/1970 - 10/15/1982),Truck Co. 24 (6/21/1991 - 4/29/2000),,,,,,,,"One piece ladder unit, shared designation as E&F-178",
+F-179*,1970,Seagrave 100’ rear mount aerial,,Truck Co. 20 (5/27/1970 - 11/25/1980),Truck Co. 37 (12/19/1980 - 1/7/1981),Truck Co. 13 (7/22/1991 - 7/31/2000),Spare truck,,,,,,"One piece ladder unit, shared designation as E&F-179",
+F-180*,1970,Seagrave 100’ rear mount aerial,,Truck Co. 51 (5/22/1970 - 12/7/1982),,,,,,,,,"One piece ladder unit, shared designation as E&F-180",
+F-181*,1970,Seagrave 100’ rear mount aerial,,Truck Co. 28 (10/1/1970 - 3/13/1975),Truck Co. 27 (3/21/1975 - 6/14/1975),Truck Co. 49 (6/14/1975 - 12/14/1982),,,,,,,"One piece ladder unit, shared designation as E&F-181",
+F-182*,1970,Seagrave 100’ rear mount aerial,,Truck Co. 10 (9/10/1970 - 12/9/1980),Truck Co. 55 (4/18/1990 - 7/28/2000),Spare truck,,,,,,,"One piece ladder unit, shared designation as E&F-182",
+F-183*,1970,WLF P80/Grove 100’ rear mount aerial,,Truck Co. 12 (9/3/1970 - 7/19/1971),,,,,,,,,"One piece ladder unit, shared designation as E&F-183",
+F-184*,1970,WLF P80/Grove 100’ rear mount aerial,,Truck Co. 34 (9/3/1970 - 4/26/1981),,,,,,,,,"One piece ladder unit, shared designation as E&F-184",
+F-185*,1970,WLF P80/Grove 100’ rear mount aerial,,Truck Co. 21 (9/11/1970 - 3/22/1974),Truck Co. 39 (4/1/1974 - 5/12/1983),Spare truck,,,,,,,"One piece ladder unit, shared designation as E&F-185",
+F-186*,1970,WLF P80/Grove 100’ rear mount aerial,,Truck Co. 18 (9/17/1970 - 7/7/1982),,,,,,,,,"One piece ladder unit, shared designation as E&F-186",
+F-187*,1970,WLF P80/Grove 100’ rear mount aerial,,Truck Co. 7,Truck Co. 61 (2/21/1974 - 5/12/1983),,,,,,,,"One piece ladder unit, shared designation as E&F-187",
+F-188*,1972,Mack CF/Pirsch 100’ rear mount,,Truck Co. 5 (10/27/1972 - 11/4/1988),Truck Co. 22 (2/14/1991 - 2/5/1993),,,,,,,,"One piece ladder unit, shared designation as E&F-188",
+F-189*,1972,Mack CF/Pirsch 100’ rear mount,,Truck Co. 22 (1/30/1973 - 2/14/1991),,,,,,,,,"One piece ladder unit, shared designation as E&F-189",
+F-190*,1972,Mack CF/Pirsch 100’ rear mount,,Truck Co. 15 (1/19/1973 - 12/21/1992),,,,,,,,,"One piece ladder unit, shared designation as E&F-190",
+F-191*,1973,American LaFrance 100’ rear mount aerial,,Truck Co. 3 (2/28/1973 - 1/30/1974),Truck Co. 2,Truck Co. 9 (3/13/1974 - 8/27/1991),,,,,,,"One piece ladder unit, shared designation as E&F-191",
+F-192*,1973,American LaFrance 100’ rear mount aerial,,Truck Co. 1 (3/22/1973 - 1/15/1975),Truck Co. 55 (6/1975 - 4/18/1990),,,,,,,,"One piece ladder unit, shared designation as E&F-192",
+F-193*,1973,American LaFrance 100’ rear mount aerial,,Truck Co. 3 (1/30/1974 - 4/24/1975),Truck Co. 49 (5/9/1975 - 6/14/1975),Truck Co. 27 (6/14/1975 - 3/17/1986),Truck Co. 53 (5/4/1987 - 10/25/1993),,,,,,"One piece ladder unit, shared designation as E&F-193",
+F-194*,1973,American LaFrance 100’ rear mount aerial,,Truck Co. 4 (2/18/1974 - 8/4/1988),Truck Co. 31 (9/28/1991 - 2/7/2002),,,,,,,,"One piece ladder unit, shared designation as E&F-194",
+F-195*,1973,American LaFrance 100’ rear mount aerial,,Truck Co. 21 (3/22/1974 - 3/17/1986),Truck Co. 9 (8/27/1991 - 5/16/2002),,,,,,,,"One piece ladder unit, shared designation as E&F-195",
+F-196*,1974,Seagrave 100’ rear mount,,Truck Co. 7 (4/24/1974 - 5/1/1986),Truck Co. 22 (2/17/1993 - 1/16/2002),,,,,,,,"One piece ladder unit, shared designation as E&F-196",
+F-197*,1974,Hendrickson/Pierce/Morita Lift 135’ rear mount aerial,,Truck Co. 1 (1/15/1975 - 2/6/1977),Truck Co. 1 (6/23/1977 - 1987),,,,,,,,"One piece ladder unit, shared designation as E&F-197",
+F-198*,1974,Seagrave 100’ rear-mount aerial,,Truck Co. 44 (1/20/1975 - 4/3/1986),Truck Co. 16 (9/27/1993 - 3/14/2002),,,,,,,,"One piece ladder unit, shared designation as E&F-198",
+F-199*,1974,Seagrave 100’ rear-mount aerial,,Truck Co. 56 (2/12/1975 - 4/3/1995),,,,,,,,,"One piece ladder unit, shared designation as E&F-199",
+F-200*,1974,Seagrave 100’ rear-mount aerial,,Truck Co. 28 (3/13/1975 - 1/9/1980),Truck Co. 44 (4/23/1993 - 1/10/2002),,,,,,,,"One piece ladder unit, shared designation as E&F-200",
+F-201*,1974,Seagrave 100’ rear-mount aerial,,Truck Co. 52 (4/10/1975 - 1/31/1994),,,,,,,,,"One piece ladder unit, shared designation as E&F-201",
+F-202*,1975,American LaFrance 100’ rear mount aerial,,Truck Co. 3 (4/24/1975 - 1/19/1985),Truck Co. 1 (1987 - 4/28/1988),,,,,,,,"One piece ladder unit, shared designation as E&F-202",
+F-203*,1975,American LaFrance 100’ rear mount aerial,,Truck Co. 2,,,,,,,,,"One piece ladder unit, shared designation as E&F-203",
+F-204*,1975,Seagrave 100’ rear-mount aerial,,Truck Co. 57 (6/12/1975 - 10/7/1993),,,,,,,,,"One piece ladder unit, shared designation as E&F-204",
+F-205*,1975,Seagrave 100’ rear-mount aerial,,Truck Co. 33 (5/29/1975 - 7/15/1993),,,,,,,,,"One piece ladder unit, shared designation as E&F-205",
+F-206*,1975,Seagrave 100’ rear-mount aerial,,Truck Co. 19 (10/24/1975 - 5/5/1988),Truck Co. 38 (9/9/1993 - 2/8/2002),,,,,,,,"One piece ladder unit, shared designation as E&F-206",
+F-207*,1975,Seagrave 100’ rear-mount aerial,,Truck Co. 50 (3/11/1976 - 5/11/1992),Truck Co. 22 (2/5/1993 - 2/17/1993),Truck Co. 51 (9/2/1994 - 12/4/2000),Truck Co. 4 (1/11/2001 - early 2003?),,,,,,"One piece ladder unit, shared designation as E&F-207",Truck 51 (Bill Friedrich)
+F-208*,1976,Seagrave 100’ rear-mount aerial,,Truck Co. 13 (3/8/1976 - 7/22/1991),Truck Co. 52 (1/31/1994 - 11/22/2000),Truck Co. 51 (12/4/2000 - 2005),Truck Co. 51 (2007 - 9/21/2007),,,,,,"One piece ladder unit, shared designation as E&F-208",
+F-209*,1976,American LaFrance 100’ rear mount aerial,,Truck Co. 45 (5/21/1976 - 8/2/2000),,,,,,,,,"One piece ladder unit, shared designation as E&F-209",
+F-210*,1976,American LaFrance 100’ rear mount aerial,,Truck Co. 36 (5/4/1976 - 5/20/1988),Spare truck,,,,,,,,"One piece ladder unit, shared designation as E&F-210",
+F-211,1975,FWD/CFA/Seagrave 100’,,Truck Co. 41 (8/23/1976 - 1/11/1989),,,,,,,,,Seagrave aerial on old FWD trailer,
+F-212,1975,FWD/CFA/Seagrave 100’,,Truck Co. 14 (9/24/1976 - 1/8/1986),Truck Co. 54 (7/8/1988 - 3/8/1989),,,,,,,,Seagrave aerial on old FWD trailer; likely the last non-crew cab CFD apparatus in service,
+F-213,1975,FWD/CFA/Seagrave 100’,,Truck Co. 42 (11/8/1976 - 5/26/1981),Truck Co. 32 (various times between 8/6/1981 and 11/16/1988),,,,,,,,Seagrave aerial on old FWD trailer,
+F-214,1975,FWD/CFA/Seagrave 100’,,Truck Co. 32 (various times between 8/6/1981 and 11/16/1988),,,,,,,,,Seagrave aerial on old FWD trailer,
+F-215,1975,FWD/CFA/Seagrave 100’,,Truck Co. 1 (2/6/1977 - 6/23/1977),Truck Co. 54 (7/7/1977 - 7/8/1988),Truck Co. 32 (various times between 8/6/1981 and 11/16/1988),,,,,,,Seagrave aerial on old FWD trailer ; Remained marked as Truck 54 during Truck 1 tenure,
+F-216*,1977,Seagrave 100’ rear mount,,Truck Co. 8 (4/26/1977 - 11/18/1994),Truck Co. 59 (6/15/1997 - 10/19/1997),,,,,,,,"One piece ladder unit, shared designation as E&F-216",
+F-217*,1977,Seagrave 100’ rear mount,,Truck Co. 59 (5/5/1977 - 4/29/1996),,,,,,,,,"One piece ladder unit, shared designation as E&F-217",
+F-218*,1977,Seagrave 100’ rear mount,,Truck Co. 47 (5/5/1977 - 1/10/1989),Truck Co. 56 (5/19/1993 - 4/3/1996),Truck Co. 47 (5/3/1996 - 12/22/2000),,,,,,,"One piece ladder unit, shared designation as E&F-218",
+F-219*,1977,Seagrave 100’ rear mount,,Truck Co. 25 (6/21/1977 - 9/6/1995),,,,,,,,,"One piece ladder unit, shared designation as E&F-219",
+F-220*,1977,Seagrave 100’ rear mount,,Truck Co. 40 (7/5/1977 - 1/8/1993),,,,,,,,,"One piece ladder unit, shared designation as E&F-220",
+F-221*,1977,Seagrave 100’ rear mount,,Truck Co. 56 (2/22/1978 - 5/19/1993),Truck Co. 4/28/1994 - 2/11/2003),Spare truck,,,,,,,"One piece ladder unit, shared designation as E&F-221",
+F-222*,1977,Seagrave 100’ rear mount,,Truck Co. 38 (3/23/1978 - 9/9/1993),,,,,,,,,"One piece ladder unit, shared designation as E&F-222",
+F-223*,1978,Seagrave 100’ rear mount,,Truck Co. 17 (4/7/1978 - 11/20/1991),Truck Co. 29 (8/13/1993 - ?),,,,,,,,"One piece ladder unit, shared designation as E&F-223",
+F-224*,1978,Seagrave 100’ rear mount,,Truck Co. 16 (12/20/1978 - 9/27/1993),,,,,,,,,"One piece ladder unit, shared designation as E&F-224",
+F-225*,1978,Seagrave 100’ rear mount,,Truck Co. 31 (12/14/1978 - 9/28/1991),Truck Co. 17 (11/20/1991 - 6/8/1996),Truck Co. 59 (10/19/1997 - 2/16/1999),,,,,,,"One piece ladder unit, shared designation as E&F-225",
+F-226*,1978,Seagrave 100’ rear mount,,Truck Co. 62 (12/6/1978 - 11/16/1986),Truck Co. 27 (11/15/1986 - 8/19/1993),Truck Co. 8 (11/18/1994 - 3/19/2002),Spare truck,,,,,,"One piece ladder unit, shared designation as E&F-226",
+F-227*,1978,Seagrave 100’ rear mount,,Truck Co. 60 (12/15/1978 - 8/2/2000),Truck Co. 62,Spare truck,,,,,,,"One piece ladder unit, shared designation as E&F-227",
+F-228*,1978,Seagrave 100’ rear mount,,Truck Co. 29 (11/15/1979 - 10/14/1992),,,,,,,,,"One piece ladder unit, shared designation as E&F-228",
+F-229,1968,Pirsch 100’ aerial only,,Truck Co. 24 (8/29/1979 - 5/9/1991),,,,,,,,,"Salvaged from F-171, mounted on E-229",
