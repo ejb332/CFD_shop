@@ -1,6 +1,6 @@
 * {
 	box-sizing: border-box;
-	border: 1px solid red !important;
+/*	border: 1px solid red !important; */
 }
 
 html {
@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	width: 100%;
+	max-width: 100%;
 	font-family: sans-serif;
 	font-size: 18px;
 	line-height: normal;
@@ -19,7 +19,8 @@ embed {
 	max-width: 100%;
 }
 
-.container {
+.row {
+	width: 100%;
 	display: flex;
 	-webkit-flex: wrap;
 	-moz-flex: wrap;
@@ -27,7 +28,6 @@ embed {
 	-o-flex: wrap;
 	flex-wrap: wrap;
 }
-
 .col-1 {
 	width: 8.33%;
 }
@@ -76,31 +76,32 @@ embed {
 	width: 100%;
 }
 
-.pg-title {
-	width: inherit;
-	font-size: 2em;
-	text-align: center;
-}
-
 img {
-	max-width: 100%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
 
+.pg-title {
+	font-size: 2em;
+}
+
 .btn-default {
 	padding: 10px 20px;
+	border: 2px solid black;
+	color: black;
 }
 
 a:link, a:visited {
-	background-color: #fee;
-	color: red;
 	margin: 20px 20px;
 	text-align: center;
 	display: inline-block;
 	border-radius: 5px;
 	text-decoration: none;;
+}
+
+a:hover {
+	border-color: black gold red gold;
 }
 
 p {
@@ -125,7 +126,6 @@ hr {
 
 ul {
 	list-style: none;
-	width: 100%;
 }
 
 /*nav {
@@ -144,7 +144,6 @@ nav.open {
 
 .footer {
 	font-size: 12px;
-	width: inherit;
 }
 
 	nav {
@@ -152,3 +151,13 @@ nav.open {
 		transform: translate(0, 0);
 	}
 }
+
+/*
+@media only screen and (max-width: 450px) {
+
+}
+
+@media only screen and (max-width: 699px) {
+
+}
+*/
