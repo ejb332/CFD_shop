@@ -1,25 +1,43 @@
 var gulp = require('gulp'),
-    minifyCSS = require('gulp-minify-css'),
     uglify = require('gulp-uglify'),
-    rename = require('gulp-rename'),
-    sass = require('gulp-sass'),
+    cleanCSS = require('gulp-clean-css'),
+    plumber = require('gulp-plumber'),
     autoprefixer = require('gulp-autoprefixer'),
+    imagemin = require('gulp-imagemin'),
+    browserSync = require('browser-sync').create();
+
+// start the browserSync server (localhost:3000)
+  browserSync.init({
+   server: "./"
+  });
+
+function errorLog(error) {
+  console.error.bind(error);
+  this.emit('end');
+}
 
 gulp.task('scripts', function(){
   gulp.src('src/js/*.js')
-      // .pipe(concat())
+      .pipe(plumber())
       .pipe(uglify())
-      .pipe(rename('cfd.min.js'))
+      .on('error', errorLog)
       .pipe(gulp.dest('dist/js'));
 });
 
 gulp.task('styles', function(){
   gulp.src('src/css/*.css')
-      .pipe(minifyCSS().on('error', minifyCSS.logError))
-      .pipe(autoprefixer({
-        browsers: ['last 2 versions']
-      }))
-      .pipe(gulp.dest('dist/css'));
+      .pipe(plumber())
+      .pipe(cleanCSS())
+      .pipe(autoprefixer('last 2 versions'))
+      .on('error', errorLog)
+      .pipe(gulp.dest('dist/css'))
+      .pipe(browserSync.stream()); //figure out how to incorporate html changes into the reload too
+});
+
+gulp.task('image', function(){
+  gulp.src('src/img/*')
+      .pipe(imagemin())
+      .pipe(gulp.dest('dist/img'));
 });
 
 gulp.task('watch', function(){
@@ -27,11 +45,4 @@ gulp.task('watch', function(){
   gulp.watch('src/css/*.css', ['styles']);
 });
 
-// run all the tasks by simply typing "gulp"
-gulp.task('default', ['scripts', 'styles', 'watch']);
-
-var browserSync = require('browser-sync').create();
-  browserSync.init({
-    server: "./"
-  });
-  browserSync.stream();
+gulp.task('default', ['scripts', 'styles', 'image', 'watch']);

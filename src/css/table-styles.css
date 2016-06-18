@@ -1,0 +1,43 @@
+table {
+  border-collapse: collapse;
+  font: sans-serif;
+  border-bottom: 2px solid #e3ce00;
+}
+
+thead {
+  background-color: red;
+  color: #e3ce00;
+  border: 2px solid black;
+}
+
+tbody tr:nth-child(odd) {
+  background: #eee;
+}
+
+td, th {
+  padding: 0.5em;
+  text-align: center;
+}
+
+td {
+  transition: all 300ms;
+}
+
+a:link {
+  text-decoration: none;
+  color: red;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  background-color: #e3ce00;
+}
+
+#FIP {
+  background-color: red;
+  color: #e3ce00;
+  border: 2px solid black;
+}
