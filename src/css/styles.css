@@ -1,6 +1,6 @@
 * {
 	box-sizing: border-box;
-/*	border: 1px solid red !important; */
+	/* border: 1px solid red !important; */
 }
 
 html {
@@ -11,12 +11,17 @@ html {
 body {
 	max-width: 100%;
 	font-family: sans-serif;
-	font-size: 18px;
 	line-height: normal;
 }
 
 embed {
 	max-width: 100%;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .row {
@@ -76,12 +81,6 @@ embed {
 	width: 100%;
 }
 
-img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
 .pg-title {
 	font-size: 2em;
 }
@@ -107,7 +106,7 @@ a:link, a:visited {
 	text-align: center;
 	display: inline-block;
 	border-radius: 5px;
-	text-decoration: none;;
+	text-decoration: none;
 }
 
 a:hover {
@@ -135,12 +134,10 @@ hr {
 }
 
 nav {
-	width: 300px;
+	width: 100%;
 	height: 100%;
-	position: absolute;
-	-webkit-transform: translate(-300px, 0);
-	transform: translate(-300px, 0);
-	transition: transform 0.3s ease;
+	position: relative;
+	text-align: center;
 }
 
 nav.open {
@@ -148,23 +145,34 @@ nav.open {
 	transform: translate(0, 0);
 }
 
-.footer {
+#search-query {
+	padding: 0;
+}
+
+input[type=search]:focus {
+    width: 25%;
+}
+
+footer {
 	font-size: 12px;
 }
 
-	nav {
-		position: relative;
-		transform: translate(0, 0);
-	}
-}
-
-/*
 @media only screen and (max-width: 450px) {
 
 }
 
-@media only screen and (max-width: 699px) {
-a:link, a:visited {
-	margin: 20px 20px;
+@media only screen and (max-width: 749px) {
+	nav {
+		display: none;
+	}
+	a:link, a:visited {
+		margin: 20px 20px;
+	}
+	input[type=search]:focus {
+		width: 50%;
+	}
 }
-*/
+
+@media only screen and (min-width: 750px) and (max-width: 1000px) {
+
+}
