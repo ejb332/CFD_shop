@@ -20,8 +20,7 @@ embed {
 
 img {
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 0 auto;
 }
 
 .row {
@@ -95,37 +94,6 @@ li {
 	display: inline;
 }
 
-.btn-default {
-	padding: 10px 20px;
-	border: 2px solid black;
-	color: black;
-}
-
-a:link, a:visited {
-	margin: 0px 2px;
-	text-align: center;
-	display: inline-block;
-	border-radius: 5px;
-	text-decoration: none;
-}
-
-a:hover {
-	border-color: black gold red gold;
-}
-
-p {
-	color: red;
-	padding: 20px;
-}
-
-.text-center {
-	text-align: center;
-}
-
-.text-right {
-	text-align: right;
-}
-
 hr {
 	display: block;
 	width: 100%;
@@ -145,8 +113,21 @@ nav.open {
 	transform: translate(0, 0);
 }
 
-#search-query {
-	padding: 0;
+a:link, a:visited {
+	margin: 0px 2px;
+	text-align: center;
+	display: inline-block;
+	border-radius: 5px;
+	text-decoration: none;
+}
+
+a:hover {
+	border-color: black gold red gold;
+}
+
+p {
+	color: red;
+	padding: 20px;
 }
 
 input[type=search]:focus {
@@ -155,6 +136,28 @@ input[type=search]:focus {
 
 footer {
 	font-size: 12px;
+}
+
+.fa-bars {
+	text-indent: -9999px;
+}
+
+.btn-default {
+	padding: 10px 20px;
+	border: 2px solid black;
+	color: black;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+#search-query {
+	padding: 0;
 }
 
 @media only screen and (max-width: 450px) {
@@ -171,8 +174,13 @@ footer {
 	input[type=search]:focus {
 		width: 50%;
 	}
+	.fa-bars {
+		text-indent: 0px;
+	}
 }
 
-@media only screen and (min-width: 750px) and (max-width: 1000px) {
-
+@media only screen and (min-width: 750px) and (max-width: 1328px) {
+	.btn-default {
+		margin-bottom: 20px;
+	}
 }
