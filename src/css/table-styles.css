@@ -2,6 +2,10 @@ table {
   border-collapse: collapse;
   font: sans-serif;
   border-bottom: 2px solid #e3ce00;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  table-layout: fixed;
 }
 
 thead {
@@ -19,10 +23,6 @@ td, th {
   text-align: center;
 }
 
-td {
-  transition: all 300ms;
-}
-
 a:link {
   text-decoration: none;
   color: red;
@@ -37,6 +37,8 @@ a:hover {
 }
 
 .thead-inverse {
+  table-layout: fixed;
+  border-collapse: collapse;
 }
 
 #FIP {
