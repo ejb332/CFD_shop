@@ -2,16 +2,31 @@ table {
   border-collapse: collapse;
   font: sans-serif;
   border-bottom: 2px solid #e3ce00;
+  table-layout: fixed;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  table-layout: fixed;
 }
 
 thead {
   background-color: red;
   color: #e3ce00;
   border: 2px solid black;
+  /* this will fix the header, but not spaced how I want it
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  margin: 0 auto;
+  */
+}
+
+tr:hover {
+  filter:blur(1px);
+  -webkit-filter: blur(1px);
+  -moz-filter: blur(1px);
+  -o-filter: blur(1px);
+  -ms-filter: blur(1px);
 }
 
 tbody tr:nth-child(odd) {
@@ -33,7 +48,7 @@ a:visited {
 }
 
 a:hover {
-  background-color: #e3ce00;
+  background-color: black;
 }
 
 .thead-inverse {

@@ -1,0 +1,33 @@
+table.table-striped {
+    display: table;
+    width: 100%;
+}
+table.table-striped thead, table.tableSection tbody {
+    float: left;
+    width: 100%;
+}
+table.tableSection tbody {
+    overflow: auto;
+    /* Giving height to make the tbody scroll */
+    /* Giving height dynamically is recommended */
+    height: 150px;
+}
+table.tableSection tr {
+    width: 100%;
+    display: table;
+    /* Keeping the texts of both thead and tbody in same alignment */
+    text-align: left;
+}
+table.tableSection th, table.tableSection td {
+    width: 33%;
+}
+table.tableSection tr>td:last-child {
+    /* removing fraction of width i.e 2% to align the tbody columns with thead columns. */
+    /* It is must as we need to consider the tbody scroll width too */
+    /* if the width is in pixels, then (width - 18px) would be enough */
+    width: 31%;
+}
+/** for older browsers (IE8), if you know number of columns in your table **/
+table.tableSection tr>td:first-child + td + td {
+    width : 31%;
+}

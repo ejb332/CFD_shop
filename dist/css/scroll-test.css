@@ -1,0 +1,1 @@
+table.table-striped,table.tableSection tr{width:100%;display:table}table.table-striped thead,table.tableSection tbody{float:left;width:100%}table.tableSection tbody{overflow:auto;height:150px}table.tableSection tr{text-align:left}table.tableSection td,table.tableSection th{width:33%}table.tableSection tr>td:first-child+td+td,table.tableSection tr>td:last-child{width:31%}
