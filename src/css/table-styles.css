@@ -47,9 +47,9 @@ a:visited {
   color: black;
 }
 
-a:hover {
+/*a:hover {
   background-color: black;
-}
+}*/
 
 .thead-inverse {
   table-layout: fixed;
