@@ -1,4 +1,5 @@
 $(document).ready(function() {
+
   // a-series hover effect
   $('#a').hover(function() {;
     $('#a-drop').slideToggle(800);
