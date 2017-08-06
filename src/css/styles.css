@@ -160,6 +160,10 @@ footer {
 	padding: 0;
 }
 
+.mouseover p {
+	display: none;
+}
+
 @media only screen and (max-width: 450px) {
 
 }

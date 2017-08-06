@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
 	<head>
 		<meta name="description" content="Chicago Fire Department Shop Numbers Project">
@@ -8,7 +8,7 @@
 		<meta itemprop="name" content="Chicago Fire Department Shop Numbers Project">
 		<meta name="mobile-web-app-capable" content="yes">
 		<title>CFD Shop List</title>
-		<link href="dist/css/styles.css" rel="stylesheet" type="text/css">
+		<link href="src/css/styles.css" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css">
 		<script src="https://use.fontawesome.com/78b640baef.js"></script>
 	</head>
@@ -30,17 +30,29 @@
 			<div class="row">
 				<nav class="col-12">
 					<ul>
-						<li><a href="a-series.html" class="btn-default">A- series</a></li>
-						<li><a href="avf-series.html" class="btn-default">AVF- series</a></li>
-						<li><a href="b-series.html" class="btn-default">B- series</a></li>
-						<li><a href="c-series.html" class="btn-default">C- series</a></li>
-						<li><a href="d-series.html" class="btn-default">D- series</a></li>
-						<li><a href="e-f-series.html" class="btn-default">E- &#38 F- series</a></li>
-						<li><a href="g-series.html" class="btn-default">G- series</a></li>
-						<li><a href="s-series.html" class="btn-default">S- series &#38 misc.</a></li>
-						<li><a href="former.html" class="btn-default">Former CFD</a></li>
-						<li><a href="unidentified.html" class="btn-default">Unidentified</a></li>
+						<li id="a"><a href="a-series.html" class="btn-default">A- series</a></li>
+						<li id="avf"><a href="avf-series.html" class="btn-default">AVF- series</a></li>
+						<li id="b"><a href="b-series.html" class="btn-default">B- series</a></li>
+						<li id="c"><a href="c-series.html" class="btn-default">C- series</a></li>
+						<li id="d"><a href="d-series.html" class="btn-default">D- series</a></li>
+						<li id="e"><a href="e-f-series.html" class="btn-default">E- &#38 F- series</a></li>
+						<li id="g"><a href="g-series.html" class="btn-default">G- series</a></li>
+						<li id="s"><a href="s-series.html" class="btn-default">S- series &#38 misc.</a></li>
+						<li id="former"><a href="former.html" class="btn-default">Former CFD</a></li>
+						<li id="unid"><a href="unidentified.html" class="btn-default">Unidentified</a></li>
 					</ul>
+					<div class="mouseover">
+						<p id="a-drop">Sedans</p>
+						<p id="avf-drop">Airport</p>
+						<p id="b-drop">Coupes, Wagons, SUVs</p>
+						<p id="c-drop">Ambulances and Early Squads</p>
+						<p id="d-drop">Engines</p>
+						<p id="e-drop">Trucks and Trailers</p>
+						<p id="g-drop">Squads, Snorkels, and Special Equipment</p>
+						<p id="s-drop">Additional Special Equipment</p>
+						<p id="former-drop">Vehicles transferred to other departments</p>
+						<p id="unid-drop">Shop numbers yet to be identified</p>
+					</div>
 				</nav>
 			</div>
 			<div class="row">
@@ -57,11 +69,11 @@
 			<hr>
 			<footer>
 				<div class="col-12">
-					<p class="text-right">An Eric Biel project, 2016</p>
+					<p class="text-right">An Eric Biel project, 2016-2017</p>
 				</div>
 			</footer>
 		</div>
 		<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-		<script src="dist/js/cfd.min.js"></script>
+		<script src="src/js/cfd.js"></script>
 	</body>
 </html>
