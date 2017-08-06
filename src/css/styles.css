@@ -162,6 +162,9 @@ footer {
 
 .mouseover p {
 	display: none;
+	background-color: #777;
+	color: #FFF;
+	width: 10%;
 }
 
 @media only screen and (max-width: 450px) {
