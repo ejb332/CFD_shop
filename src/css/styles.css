@@ -160,23 +160,28 @@ footer {
 	padding: 0;
 }
 
+.mouseover {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
 .mouseover p {
 	display: none;
 	background-color: rgba(17, 17, 17, 0.7);
 	color: #FFF;
 	width: 15%;
 	border-radius: 6px;
-}
-
-#main-buttons {
 	position: relative;
 }
 
-.hoverbox {
+#btn-div {
 	position: absolute;
 }
 
-.
+.btn-divs {
+	display: inline;
+}
 
 @media only screen and (max-width: 450px) {
 
