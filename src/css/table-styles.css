@@ -12,6 +12,13 @@ thead {
   background-color: red;
   color: #e3ce00;
   border: 2px solid black;
+  /* sticky only supported in safari currently. go figure */
+  position: sticky;
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
+  top: -1px;
   /* this will fix the header, but not spaced how I want it
   position: fixed;
   top: 0px;
